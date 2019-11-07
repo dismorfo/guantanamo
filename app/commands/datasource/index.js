@@ -1,7 +1,5 @@
 'use strict';
 
-const mysqlx = require('@mysql/xdevapi');
-
 const BuildDocuments = class {
 
   get command () {
@@ -33,6 +31,8 @@ const BuildDocuments = class {
   }
 
   action () {
+
+    const mysqlx = require('@mysql/xdevapi');
 
     const { resolve, parse, basename } = require('path');
 
@@ -129,25 +129,3 @@ const BuildDocuments = class {
 };
 
 module.exports = exports = BuildDocuments;
-
-
-        // page
-        // session.sql(`
-        //   SELECT 
-        //     n.nid, 
-        //     r.vid, 
-        //     r.title, 
-        //     r.body
-        //   FROM node n 
-        //   LEFT JOIN node_revisions r 
-        //   ON n.nid = r.vid 
-        //   WHERE n.type = ? 
-        //   AND n.status = ?
-        // `).bind('page', 1)
-        //   .execute(result => {
-        //     console.log(result);
-        //     // if (exists(documentsPath)) {
-        //     //   mkdir(documentsPath);
-        //     // }
-        //     // await write(`${documentsPath}/${id}.json`, JSON.stringify(data));
-        //   });

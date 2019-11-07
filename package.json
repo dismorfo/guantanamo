@@ -17,8 +17,7 @@
   "dependencies": {
     "hephaestus-cli": "https://github.com/dismorfo/hephaestus-cli.git",
     "lowdb": "^1.0.0",
-    "slug": "^1.1.0",
-    "@mysql/xdevapi": "^8.0.18"
+    "slug": "^1.1.0"
   },
   "preferGlobal": false,
   "engines": {
@@ -29,6 +28,7 @@
     "start": "./node_modules/hephaestus-cli/bin/hephaestus-cli fg && ./node_modules/http-server/bin/http-server build"
   },
   "devDependencies": {   
+    "@mysql/xdevapi": "^8.0.18",
     "@babel/preset-env": "^7.3.1",
     "babel-preset-minify": "^0.5.0",
     "chromedriver": "^2.46.0",

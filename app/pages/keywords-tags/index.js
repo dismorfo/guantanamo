@@ -23,7 +23,7 @@ class KeywordsTags extends Page {
       this.render({
         id: `keywords-${slug}`,
         route: `/keywords/${slug}/index.html`,
-        title: `Articles tag with keywords "${label}"`,
+        title: `Articles tagged with keyword "${label}"`,
         nodes: nodes,
       });
     }
