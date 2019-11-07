@@ -1,7 +1,5 @@
 'use strict';
 
-const mysqlx = require('@mysql/xdevapi');
-
 const Keywords = class {
 
   get command () {
@@ -33,6 +31,8 @@ const Keywords = class {
   }
 
   action () {
+    
+    const mysqlx = require('@mysql/xdevapi');
 
     const slug = require('slug');
 

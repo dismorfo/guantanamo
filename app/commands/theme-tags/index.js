@@ -1,7 +1,5 @@
 'use strict';
 
-const mysqlx = require('@mysql/xdevapi');
-
 const ThemeTags = class {
 
   get command () {
@@ -34,6 +32,8 @@ const ThemeTags = class {
 
   action () {
 
+    const mysqlx = require('@mysql/xdevapi');
+    
     const slug = require('slug');
 
     const { resolve, parse, basename } = require('path');
@@ -43,12 +43,12 @@ const ThemeTags = class {
     try {
 
       const appUrl = get('appUrl');
-      
-      let docs = [];
-      
+
       const x = {};
 
       const documentsPath = `${appDir()}/app/localsource/articles`;
+
+      let docs = [];
 
       if (!exists(documentsPath)) {
         mkdir(documentsPath);
