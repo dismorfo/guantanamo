@@ -1,0 +1,17 @@
+<div id="content">
+  <div id="content-inner">
+    <div>
+      <a href="{{appRoot}}">Home</a>
+    </div>
+    <br/>
+    <div class="content clearfix">
+      <h1>{{title}}</h1>
+      <br/>
+      <ul>
+        {{#each nodes}}
+          <li><a href="/node/{{this.nid}}" rel="tag">{{this.narrativeName}} by {{this.firstName}} {{this.middleInitial}} {{this.lastName}}</a></li>
+        {{/each}}
+      </ul>
+    </div>
+  </div>
+</div>

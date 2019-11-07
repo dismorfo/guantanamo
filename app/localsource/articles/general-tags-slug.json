@@ -1,0 +1,4594 @@
+{
+  "911": [
+    {
+      "slug": "911",
+      "nid": 3966,
+      "label": "9/11"
+    },
+    {
+      "slug": "911",
+      "nid": 3984,
+      "label": "9/11"
+    },
+    {
+      "slug": "911",
+      "nid": 3992,
+      "label": "9/11"
+    },
+    {
+      "slug": "911",
+      "nid": 4003,
+      "label": "9/11"
+    }
+  ],
+  "rasul": [
+    {
+      "slug": "rasul",
+      "nid": 3904,
+      "label": "Rasul"
+    },
+    {
+      "slug": "rasul",
+      "nid": 3923,
+      "label": "rasul"
+    },
+    {
+      "slug": "rasul",
+      "nid": 3939,
+      "label": "Rasul"
+    },
+    {
+      "slug": "rasul",
+      "nid": 3971,
+      "label": "Rasul"
+    },
+    {
+      "slug": "rasul",
+      "nid": 3979,
+      "label": "Rasul"
+    },
+    {
+      "slug": "rasul",
+      "nid": 3992,
+      "label": "Rasul"
+    },
+    {
+      "slug": "rasul",
+      "nid": 3994,
+      "label": "Rasul"
+    },
+    {
+      "slug": "rasul",
+      "nid": 4005,
+      "label": "Rasul"
+    },
+    {
+      "slug": "rasul",
+      "nid": 4015,
+      "label": "Rasul"
+    },
+    {
+      "slug": "rasul",
+      "nid": 4020,
+      "label": "Rasul"
+    }
+  ],
+  "center-for-constitutional-rights": [
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 3904,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 3940,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 3947,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 3949,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 3951,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 3955,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 3962,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 3976,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 3992,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 3999,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 4004,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 4015,
+      "label": "Center for Constitutional Rights"
+    },
+    {
+      "slug": "center-for-constitutional-rights",
+      "nid": 4020,
+      "label": "Center for Constitutional Rights"
+    }
+  ],
+  "hamdan": [
+    {
+      "slug": "hamdan",
+      "nid": 3904,
+      "label": "Hamdan"
+    },
+    {
+      "slug": "hamdan",
+      "nid": 3944,
+      "label": "Hamdan"
+    },
+    {
+      "slug": "hamdan",
+      "nid": 3979,
+      "label": "Hamdan"
+    },
+    {
+      "slug": "hamdan",
+      "nid": 3982,
+      "label": "Hamdan"
+    },
+    {
+      "slug": "hamdan",
+      "nid": 3992,
+      "label": "Hamdan"
+    },
+    {
+      "slug": "hamdan",
+      "nid": 3994,
+      "label": "Hamdan"
+    },
+    {
+      "slug": "hamdan",
+      "nid": 4007,
+      "label": "Hamdan"
+    },
+    {
+      "slug": "hamdan",
+      "nid": 4020,
+      "label": "Hamdan"
+    }
+  ],
+  "iguanas": [
+    {
+      "slug": "iguanas",
+      "nid": 3904,
+      "label": "iguanas"
+    },
+    {
+      "slug": "iguanas",
+      "nid": 3939,
+      "label": "iguanas"
+    }
+  ],
+  "irony": [
+    {
+      "slug": "irony",
+      "nid": 3904,
+      "label": "irony"
+    },
+    {
+      "slug": "irony",
+      "nid": 3911,
+      "label": "irony"
+    },
+    {
+      "slug": "irony",
+      "nid": 3931,
+      "label": "irony"
+    },
+    {
+      "slug": "irony",
+      "nid": 3932,
+      "label": "irony"
+    },
+    {
+      "slug": "irony",
+      "nid": 3957,
+      "label": "irony"
+    },
+    {
+      "slug": "irony",
+      "nid": 3982,
+      "label": "irony"
+    }
+  ],
+  "firing-attorneys": [
+    {
+      "slug": "firing-attorneys",
+      "nid": 3904,
+      "label": "firing attorneys"
+    }
+  ],
+  "indefinite-detention": [
+    {
+      "slug": "indefinite-detention",
+      "nid": 3904,
+      "label": "indefinite detention"
+    },
+    {
+      "slug": "indefinite-detention",
+      "nid": 3992,
+      "label": "indefinite detention"
+    },
+    {
+      "slug": "indefinite-detention",
+      "nid": 3994,
+      "label": "indefinite detention"
+    }
+  ],
+  "military-police": [
+    {
+      "slug": "military-police",
+      "nid": 3905,
+      "label": "military police"
+    }
+  ],
+  "guantanamo-bay": [
+    {
+      "slug": "guantanamo-bay",
+      "nid": 3905,
+      "label": "Guantanamo Bay"
+    },
+    {
+      "slug": "guantanamo-bay",
+      "nid": 3913,
+      "label": "Guantanamo Bay"
+    },
+    {
+      "slug": "guantanamo-bay",
+      "nid": 3938,
+      "label": "Guantanamo Bay"
+    },
+    {
+      "slug": "guantanamo-bay",
+      "nid": 3940,
+      "label": "Guantanamo Bay"
+    },
+    {
+      "slug": "guantanamo-bay",
+      "nid": 3952,
+      "label": "Guantanamo Bay"
+    },
+    {
+      "slug": "guantanamo-bay",
+      "nid": 3953,
+      "label": "Guantanamo Bay"
+    },
+    {
+      "slug": "guantanamo-bay",
+      "nid": 3954,
+      "label": "Guantanamo Bay"
+    },
+    {
+      "slug": "guantanamo-bay",
+      "nid": 4004,
+      "label": "Guantanamo Bay"
+    },
+    {
+      "slug": "guantanamo-bay",
+      "nid": 4025,
+      "label": "Guantanamo Bay"
+    }
+  ],
+  "camp-echo": [
+    {
+      "slug": "camp-echo",
+      "nid": 3905,
+      "label": "Camp Echo"
+    },
+    {
+      "slug": "camp-echo",
+      "nid": 3993,
+      "label": "camp echo"
+    }
+  ],
+  "client-interviews": [
+    {
+      "slug": "client-interviews",
+      "nid": 3905,
+      "label": "client interviews"
+    },
+    {
+      "slug": "client-interviews",
+      "nid": 3953,
+      "label": "client interviews"
+    },
+    {
+      "slug": "client-interviews",
+      "nid": 3954,
+      "label": "client interviews"
+    }
+  ],
+  "supreme-court": [
+    {
+      "slug": "supreme-court",
+      "nid": 3905,
+      "label": "Supreme Court"
+    },
+    {
+      "slug": "supreme-court",
+      "nid": 3938,
+      "label": "Supreme Court"
+    },
+    {
+      "slug": "supreme-court",
+      "nid": 3940,
+      "label": "Supreme Court"
+    },
+    {
+      "slug": "supreme-court",
+      "nid": 3968,
+      "label": "Supreme Court"
+    },
+    {
+      "slug": "supreme-court",
+      "nid": 3979,
+      "label": "Supreme Court"
+    },
+    {
+      "slug": "supreme-court",
+      "nid": 3994,
+      "label": "Supreme Court"
+    },
+    {
+      "slug": "supreme-court",
+      "nid": 4004,
+      "label": "Supreme Court"
+    },
+    {
+      "slug": "supreme-court",
+      "nid": 4015,
+      "label": "Supreme Court"
+    },
+    {
+      "slug": "supreme-court",
+      "nid": 4020,
+      "label": "Supreme Court"
+    },
+    {
+      "slug": "supreme-court",
+      "nid": 4026,
+      "label": "Supreme Court"
+    }
+  ],
+  "rasul-v-bush": [
+    {
+      "slug": "rasul-v-bush",
+      "nid": 3905,
+      "label": "Rasul v. Bush"
+    },
+    {
+      "slug": "rasul-v-bush",
+      "nid": 4004,
+      "label": "Rasul v. Bush"
+    }
+  ],
+  "bush-administration": [
+    {
+      "slug": "bush-administration",
+      "nid": 3905,
+      "label": "Bush Administration"
+    }
+  ],
+  "detention": [
+    {
+      "slug": "detention",
+      "nid": 3905,
+      "label": "detention"
+    },
+    {
+      "slug": "detention",
+      "nid": 3950,
+      "label": "detention"
+    },
+    {
+      "slug": "detention",
+      "nid": 4004,
+      "label": "detention"
+    }
+  ],
+  "language-barrier": [
+    {
+      "slug": "language-barrier",
+      "nid": 3905,
+      "label": "language barrier"
+    },
+    {
+      "slug": "language-barrier",
+      "nid": 3919,
+      "label": "language barrier"
+    }
+  ],
+  "translator": [
+    {
+      "slug": "translator",
+      "nid": 3905,
+      "label": "translator"
+    }
+  ],
+  "germany": [
+    {
+      "slug": "germany",
+      "nid": 3905,
+      "label": "Germany"
+    },
+    {
+      "slug": "germany",
+      "nid": 3938,
+      "label": "Germany"
+    },
+    {
+      "slug": "germany",
+      "nid": 4022,
+      "label": "Germany"
+    }
+  ],
+  "dehumanization": [
+    {
+      "slug": "dehumanization",
+      "nid": 3905,
+      "label": "dehumanization"
+    }
+  ],
+  "september-11": [
+    {
+      "slug": "september-11",
+      "nid": 3905,
+      "label": "September 11"
+    },
+    {
+      "slug": "september-11",
+      "nid": 4004,
+      "label": "September 11"
+    }
+  ],
+  "osama-bin-laden": [
+    {
+      "slug": "osama-bin-laden",
+      "nid": 3905,
+      "label": "Osama Bin Laden"
+    },
+    {
+      "slug": "osama-bin-laden",
+      "nid": 3922,
+      "label": "osama bin laden"
+    }
+  ],
+  "hamas": [
+    {
+      "slug": "hamas",
+      "nid": 3905,
+      "label": "Hamas"
+    }
+  ],
+  "terrorism": [
+    {
+      "slug": "terrorism",
+      "nid": 3905,
+      "label": "terrorism"
+    },
+    {
+      "slug": "terrorism",
+      "nid": 3922,
+      "label": "terrorism"
+    }
+  ],
+  "al-qaeda": [
+    {
+      "slug": "al-qaeda",
+      "nid": 3905,
+      "label": "al Qaeda"
+    },
+    {
+      "slug": "al-qaeda",
+      "nid": 4004,
+      "label": "Al Qaeda"
+    }
+  ],
+  "taliban": [
+    {
+      "slug": "taliban",
+      "nid": 3905,
+      "label": "Taliban"
+    },
+    {
+      "slug": "taliban",
+      "nid": 3921,
+      "label": "taliban"
+    },
+    {
+      "slug": "taliban",
+      "nid": 3938,
+      "label": "Taliban"
+    },
+    {
+      "slug": "taliban",
+      "nid": 4004,
+      "label": "Taliban"
+    },
+    {
+      "slug": "taliban",
+      "nid": 4027,
+      "label": "Taliban"
+    }
+  ],
+  "foia": [
+    {
+      "slug": "foia",
+      "nid": 3905,
+      "label": "FOIA"
+    },
+    {
+      "slug": "foia",
+      "nid": 3932,
+      "label": "FOIA"
+    },
+    {
+      "slug": "foia",
+      "nid": 3960,
+      "label": "FOIA"
+    },
+    {
+      "slug": "foia",
+      "nid": 3966,
+      "label": "FOIA"
+    }
+  ],
+  "department-of-defense": [
+    {
+      "slug": "department-of-defense",
+      "nid": 3905,
+      "label": "Department of Defense"
+    },
+    {
+      "slug": "department-of-defense",
+      "nid": 3912,
+      "label": "Department of Defense"
+    }
+  ],
+  "habeas-petition": [
+    {
+      "slug": "habeas-petition",
+      "nid": 3905,
+      "label": "habeas petition"
+    },
+    {
+      "slug": "habeas-petition",
+      "nid": 3919,
+      "label": "habeas petition"
+    }
+  ],
+  "protective-order": [
+    {
+      "slug": "protective-order",
+      "nid": 3905,
+      "label": "protective order"
+    },
+    {
+      "slug": "protective-order",
+      "nid": 3912,
+      "label": "Protective Order"
+    },
+    {
+      "slug": "protective-order",
+      "nid": 3939,
+      "label": "protective order"
+    },
+    {
+      "slug": "protective-order",
+      "nid": 3940,
+      "label": "protective order"
+    },
+    {
+      "slug": "protective-order",
+      "nid": 3962,
+      "label": "protective order"
+    },
+    {
+      "slug": "protective-order",
+      "nid": 3965,
+      "label": "protective order"
+    },
+    {
+      "slug": "protective-order",
+      "nid": 3970,
+      "label": "protective order"
+    },
+    {
+      "slug": "protective-order",
+      "nid": 3982,
+      "label": "protective order"
+    },
+    {
+      "slug": "protective-order",
+      "nid": 3994,
+      "label": "protective order"
+    },
+    {
+      "slug": "protective-order",
+      "nid": 4004,
+      "label": "protective order"
+    },
+    {
+      "slug": "protective-order",
+      "nid": 4007,
+      "label": "Protective Order"
+    }
+  ],
+  "recording-device": [
+    {
+      "slug": "recording-device",
+      "nid": 3905,
+      "label": "recording device"
+    }
+  ],
+  "torture": [
+    {
+      "slug": "torture",
+      "nid": 3905,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3922,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3928,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3930,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3938,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3941,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3944,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3947,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3952,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3954,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3955,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3960,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3961,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3986,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3992,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 3997,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 4003,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 4004,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 4005,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 4008,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 4014,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 4020,
+      "label": "torture"
+    },
+    {
+      "slug": "torture",
+      "nid": 4022,
+      "label": "torture"
+    }
+  ],
+  "islam": [
+    {
+      "slug": "islam",
+      "nid": 3905,
+      "label": "Islam"
+    }
+  ],
+  "military-tribunal": [
+    {
+      "slug": "military-tribunal",
+      "nid": 3905,
+      "label": "military tribunal"
+    }
+  ],
+  "bernhard-docke": [
+    {
+      "slug": "bernhard-docke",
+      "nid": 3905,
+      "label": "Bernhard Docke"
+    }
+  ],
+  "interrogations": [
+    {
+      "slug": "interrogations",
+      "nid": 3905,
+      "label": "interrogations"
+    },
+    {
+      "slug": "interrogations",
+      "nid": 3941,
+      "label": "interrogations"
+    },
+    {
+      "slug": "interrogations",
+      "nid": 3944,
+      "label": "interrogations"
+    }
+  ],
+  "algeria": [
+    {
+      "slug": "algeria",
+      "nid": 3906,
+      "label": "Algeria"
+    },
+    {
+      "slug": "algeria",
+      "nid": 3924,
+      "label": "Algeria"
+    },
+    {
+      "slug": "algeria",
+      "nid": 3942,
+      "label": "Algeria"
+    },
+    {
+      "slug": "algeria",
+      "nid": 3973,
+      "label": "Algeria"
+    },
+    {
+      "slug": "algeria",
+      "nid": 3974,
+      "label": "Algeria"
+    },
+    {
+      "slug": "algeria",
+      "nid": 4021,
+      "label": "Algeria"
+    }
+  ],
+  "repatriation": [
+    {
+      "slug": "repatriation",
+      "nid": 3906,
+      "label": "repatriation"
+    },
+    {
+      "slug": "repatriation",
+      "nid": 3941,
+      "label": "repatriation"
+    },
+    {
+      "slug": "repatriation",
+      "nid": 3973,
+      "label": "repatriation"
+    },
+    {
+      "slug": "repatriation",
+      "nid": 3974,
+      "label": "repatriation"
+    },
+    {
+      "slug": "repatriation",
+      "nid": 3986,
+      "label": "repatriation"
+    }
+  ],
+  "travel-to-home-country": [
+    {
+      "slug": "travel-to-home-country",
+      "nid": 3906,
+      "label": "travel to home country"
+    },
+    {
+      "slug": "travel-to-home-country",
+      "nid": 3974,
+      "label": "travel to home country"
+    },
+    {
+      "slug": "travel-to-home-country",
+      "nid": 3977,
+      "label": "travel to home country"
+    },
+    {
+      "slug": "travel-to-home-country",
+      "nid": 4019,
+      "label": "travel to home country"
+    },
+    {
+      "slug": "travel-to-home-country",
+      "nid": 4020,
+      "label": "travel to home country"
+    }
+  ],
+  "un-refugees-center": [
+    {
+      "slug": "un-refugees-center",
+      "nid": 3906,
+      "label": "UN refugees center"
+    },
+    {
+      "slug": "un-refugees-center",
+      "nid": 3974,
+      "label": "UN refugees center"
+    }
+  ],
+  "christmas-trees": [
+    {
+      "slug": "christmas-trees",
+      "nid": 3907,
+      "label": "Christmas trees"
+    }
+  ],
+  "american": [
+    {
+      "slug": "american",
+      "nid": 3908,
+      "label": "American"
+    }
+  ],
+  "lebanese": [
+    {
+      "slug": "lebanese",
+      "nid": 3908,
+      "label": "Lebanese"
+    }
+  ],
+  "dual-citizenship": [
+    {
+      "slug": "dual-citizenship",
+      "nid": 3908,
+      "label": "dual citizenship"
+    }
+  ],
+  "clearance-process": [
+    {
+      "slug": "clearance-process",
+      "nid": 3908,
+      "label": "clearance process"
+    }
+  ],
+  "office-of-military-commissions": [
+    {
+      "slug": "office-of-military-commissions",
+      "nid": 3909,
+      "label": "Office of Military Commissions"
+    }
+  ],
+  "jag-officers": [
+    {
+      "slug": "jag-officers",
+      "nid": 3909,
+      "label": "JAG officers"
+    }
+  ],
+  "constitution": [
+    {
+      "slug": "constitution",
+      "nid": 3909,
+      "label": "constitution"
+    },
+    {
+      "slug": "constitution",
+      "nid": 3940,
+      "label": "Constitution"
+    }
+  ],
+  "due-process": [
+    {
+      "slug": "due-process",
+      "nid": 3909,
+      "label": "due process"
+    },
+    {
+      "slug": "due-process",
+      "nid": 3920,
+      "label": "due process"
+    },
+    {
+      "slug": "due-process",
+      "nid": 4004,
+      "label": "due process"
+    }
+  ],
+  "habeas-corpus-litigation": [
+    {
+      "slug": "habeas-corpus-litigation",
+      "nid": 3909,
+      "label": "habeas corpus litigation"
+    }
+  ],
+  "moroccas": [
+    {
+      "slug": "moroccas",
+      "nid": 3909,
+      "label": "Moroccas"
+    }
+  ],
+  "afghanistan": [
+    {
+      "slug": "afghanistan",
+      "nid": 3909,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3921,
+      "label": "afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3938,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3944,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3950,
+      "label": "afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3951,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3955,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3966,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3968,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3971,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3977,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3996,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 3997,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 4001,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 4004,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 4010,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 4014,
+      "label": "Afghanistan"
+    },
+    {
+      "slug": "afghanistan",
+      "nid": 4019,
+      "label": "Afghanistan"
+    }
+  ],
+  "binyam-mohamed": [
+    {
+      "slug": "binyam-mohamed",
+      "nid": 3909,
+      "label": "Binyam Mohamed"
+    }
+  ],
+  "marines": [
+    {
+      "slug": "marines",
+      "nid": 3910,
+      "label": "marines"
+    }
+  ],
+  "amicus-brief": [
+    {
+      "slug": "amicus-brief",
+      "nid": 3910,
+      "label": "amicus brief"
+    }
+  ],
+  "enemy": [
+    {
+      "slug": "enemy",
+      "nid": 3910,
+      "label": "enemy"
+    }
+  ],
+  "jew": [
+    {
+      "slug": "jew",
+      "nid": 3910,
+      "label": "Jew"
+    }
+  ],
+  "expert-witness": [
+    {
+      "slug": "expert-witness",
+      "nid": 3910,
+      "label": "expert witness"
+    }
+  ],
+  "executive-branch": [
+    {
+      "slug": "executive-branch",
+      "nid": 3910,
+      "label": "executive branch"
+    },
+    {
+      "slug": "executive-branch",
+      "nid": 3940,
+      "label": "Executive Branch"
+    }
+  ],
+  "president": [
+    {
+      "slug": "president",
+      "nid": 3910,
+      "label": "president"
+    }
+  ],
+  "next-friend": [
+    {
+      "slug": "next-friend",
+      "nid": 3911,
+      "label": "next friend"
+    },
+    {
+      "slug": "next-friend",
+      "nid": 3940,
+      "label": "Next Friend"
+    }
+  ],
+  "beraucracy": [
+    {
+      "slug": "beraucracy",
+      "nid": 3911,
+      "label": "beraucracy"
+    }
+  ],
+  "detention-facility": [
+    {
+      "slug": "detention-facility",
+      "nid": 3912,
+      "label": "detention facility"
+    }
+  ],
+  "guantanamo": [
+    {
+      "slug": "guantanamo",
+      "nid": 3912,
+      "label": "Guantanamo"
+    },
+    {
+      "slug": "guantanamo",
+      "nid": 3985,
+      "label": "Guantanamo"
+    }
+  ],
+  "detainees-mother": [
+    {
+      "slug": "detainees-mother",
+      "nid": 3912,
+      "label": "detainee's mother"
+    }
+  ],
+  "death": [
+    {
+      "slug": "death",
+      "nid": 3912,
+      "label": "death"
+    }
+  ],
+  "saudi-arabia": [
+    {
+      "slug": "saudi-arabia",
+      "nid": 3912,
+      "label": "Saudi Arabia"
+    },
+    {
+      "slug": "saudi-arabia",
+      "nid": 3918,
+      "label": "Saudi Arabia"
+    },
+    {
+      "slug": "saudi-arabia",
+      "nid": 3940,
+      "label": "Saudi Arabia"
+    },
+    {
+      "slug": "saudi-arabia",
+      "nid": 3968,
+      "label": "Saudi Arabia"
+    },
+    {
+      "slug": "saudi-arabia",
+      "nid": 3971,
+      "label": "Saudi Arabia"
+    },
+    {
+      "slug": "saudi-arabia",
+      "nid": 4004,
+      "label": "Saudi Arabia"
+    },
+    {
+      "slug": "saudi-arabia",
+      "nid": 4026,
+      "label": "Saudi Arabia"
+    }
+  ],
+  "department-of-justice": [
+    {
+      "slug": "department-of-justice",
+      "nid": 3913,
+      "label": "Department of Justice"
+    },
+    {
+      "slug": "department-of-justice",
+      "nid": 4004,
+      "label": "Department of Justice"
+    }
+  ],
+  "death-of-detainees-family-member": [
+    {
+      "slug": "death-of-detainees-family-member",
+      "nid": 3913,
+      "label": "death of detainees family member,"
+    }
+  ],
+  "government-labeling": [
+    {
+      "slug": "government-labeling",
+      "nid": 3915,
+      "label": "government labeling"
+    }
+  ],
+  "inconsistency": [
+    {
+      "slug": "inconsistency",
+      "nid": 3915,
+      "label": "inconsistency"
+    }
+  ],
+  "hijab": [
+    {
+      "slug": "hijab",
+      "nid": 3918,
+      "label": "hijab"
+    }
+  ],
+  "eye-contact-withfemale-attorneys": [
+    {
+      "slug": "eye-contact-withfemale-attorneys",
+      "nid": 3918,
+      "label": "eye-contact w/female attorneys"
+    }
+  ],
+  "pakistan": [
+    {
+      "slug": "pakistan",
+      "nid": 3919,
+      "label": "Pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 3920,
+      "label": "Pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 3921,
+      "label": "pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 3938,
+      "label": "Pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 3941,
+      "label": "Pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 3947,
+      "label": "Pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 3961,
+      "label": "Pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 3973,
+      "label": "Pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 3986,
+      "label": "Pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 3996,
+      "label": "Pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 4004,
+      "label": "Pakistan"
+    },
+    {
+      "slug": "pakistan",
+      "nid": 4010,
+      "label": "Pakistan"
+    }
+  ],
+  "imams-conference": [
+    {
+      "slug": "imams-conference",
+      "nid": 3919,
+      "label": "Imam's Conference"
+    }
+  ],
+  "yemen": [
+    {
+      "slug": "yemen",
+      "nid": 3919,
+      "label": "Yemen"
+    },
+    {
+      "slug": "yemen",
+      "nid": 3922,
+      "label": "Yemen"
+    },
+    {
+      "slug": "yemen",
+      "nid": 3927,
+      "label": "Yemen"
+    },
+    {
+      "slug": "yemen",
+      "nid": 3941,
+      "label": "Yemen"
+    },
+    {
+      "slug": "yemen",
+      "nid": 3994,
+      "label": "Yemen"
+    },
+    {
+      "slug": "yemen",
+      "nid": 3995,
+      "label": " Yemen"
+    },
+    {
+      "slug": "yemen",
+      "nid": 4001,
+      "label": "Yemen"
+    },
+    {
+      "slug": "yemen",
+      "nid": 4004,
+      "label": "Yemen"
+    }
+  ],
+  "aden": [
+    {
+      "slug": "aden",
+      "nid": 3919,
+      "label": "Aden"
+    }
+  ],
+  "governor-al-kohlani": [
+    {
+      "slug": "governor-al-kohlani",
+      "nid": 3919,
+      "label": "Governor Al-Kohlani"
+    }
+  ],
+  "governor-schweitzer": [
+    {
+      "slug": "governor-schweitzer",
+      "nid": 3919,
+      "label": "Governor Schweitzer"
+    }
+  ],
+  "montana": [
+    {
+      "slug": "montana",
+      "nid": 3919,
+      "label": "Montana"
+    }
+  ],
+  "air-travel": [
+    {
+      "slug": "air-travel",
+      "nid": 3919,
+      "label": "air travel"
+    }
+  ],
+  "arabic-language": [
+    {
+      "slug": "arabic-language",
+      "nid": 3919,
+      "label": "Arabic language"
+    }
+  ],
+  "algerian": [
+    {
+      "slug": "algerian",
+      "nid": 3920,
+      "label": "Algerian"
+    }
+  ],
+  "release": [
+    {
+      "slug": "release",
+      "nid": 3920,
+      "label": "release"
+    },
+    {
+      "slug": "release",
+      "nid": 3968,
+      "label": "release"
+    }
+  ],
+  "habeas-corpus": [
+    {
+      "slug": "habeas-corpus",
+      "nid": 3920,
+      "label": "habeas corpus"
+    },
+    {
+      "slug": "habeas-corpus",
+      "nid": 3956,
+      "label": "habeas corpus"
+    },
+    {
+      "slug": "habeas-corpus",
+      "nid": 3964,
+      "label": "habeas corpus"
+    },
+    {
+      "slug": "habeas-corpus",
+      "nid": 3975,
+      "label": "habeas corpus"
+    },
+    {
+      "slug": "habeas-corpus",
+      "nid": 3976,
+      "label": "habeas corpus"
+    },
+    {
+      "slug": "habeas-corpus",
+      "nid": 4016,
+      "label": "habeas corpus"
+    },
+    {
+      "slug": "habeas-corpus",
+      "nid": 4017,
+      "label": "habeas corpus"
+    }
+  ],
+  "military": [
+    {
+      "slug": "military",
+      "nid": 3920,
+      "label": "military"
+    },
+    {
+      "slug": "military",
+      "nid": 3928,
+      "label": "military"
+    }
+  ],
+  "doctor": [
+    {
+      "slug": "doctor",
+      "nid": 3920,
+      "label": "doctor"
+    }
+  ],
+  "non-enemy-combatant": [
+    {
+      "slug": "non-enemy-combatant",
+      "nid": 3920,
+      "label": "non-enemy combatant"
+    }
+  ],
+  "albania": [
+    {
+      "slug": "albania",
+      "nid": 3920,
+      "label": "Albania"
+    },
+    {
+      "slug": "albania",
+      "nid": 4013,
+      "label": "Albania"
+    },
+    {
+      "slug": "albania",
+      "nid": 4022,
+      "label": "Albania"
+    }
+  ],
+  "anger": [
+    {
+      "slug": "anger",
+      "nid": 3920,
+      "label": "anger"
+    }
+  ],
+  "hekmati": [
+    {
+      "slug": "hekmati",
+      "nid": 3921,
+      "label": "hekmati"
+    }
+  ],
+  "rumsfeld": [
+    {
+      "slug": "rumsfeld",
+      "nid": 3921,
+      "label": "rumsfeld"
+    },
+    {
+      "slug": "rumsfeld",
+      "nid": 3946,
+      "label": "rumsfeld"
+    },
+    {
+      "slug": "rumsfeld",
+      "nid": 3997,
+      "label": "Rumsfeld"
+    }
+  ],
+  "painkillers": [
+    {
+      "slug": "painkillers",
+      "nid": 3921,
+      "label": "painkillers"
+    }
+  ],
+  "medicines": [
+    {
+      "slug": "medicines",
+      "nid": 3921,
+      "label": "medicines"
+    }
+  ],
+  "hospital": [
+    {
+      "slug": "hospital",
+      "nid": 3921,
+      "label": "hospital"
+    }
+  ],
+  "combatant": [
+    {
+      "slug": "combatant",
+      "nid": 3921,
+      "label": "combatant"
+    }
+  ],
+  "wiggins": [
+    {
+      "slug": "wiggins",
+      "nid": 3921,
+      "label": "Wiggins"
+    }
+  ],
+  "judge": [
+    {
+      "slug": "judge",
+      "nid": 3922,
+      "label": "judge"
+    }
+  ],
+  "israel": [
+    {
+      "slug": "israel",
+      "nid": 3922,
+      "label": "israel"
+    }
+  ],
+  "iran": [
+    {
+      "slug": "iran",
+      "nid": 3922,
+      "label": "iran"
+    },
+    {
+      "slug": "iran",
+      "nid": 3927,
+      "label": "Iran"
+    }
+  ],
+  "suicide-bombers": [
+    {
+      "slug": "suicide-bombers",
+      "nid": 3922,
+      "label": "suicide bombers"
+    }
+  ],
+  "enemy-combatants": [
+    {
+      "slug": "enemy-combatants",
+      "nid": 3922,
+      "label": "enemy combatants"
+    }
+  ],
+  "hearing": [
+    {
+      "slug": "hearing",
+      "nid": 3922,
+      "label": "hearing"
+    }
+  ],
+  "counsel": [
+    {
+      "slug": "counsel",
+      "nid": 3922,
+      "label": "counsel"
+    }
+  ],
+  "rule-of-law": [
+    {
+      "slug": "rule-of-law",
+      "nid": 3922,
+      "label": "rule of law"
+    },
+    {
+      "slug": "rule-of-law",
+      "nid": 3938,
+      "label": "rule of law"
+    },
+    {
+      "slug": "rule-of-law",
+      "nid": 3951,
+      "label": "rule of law"
+    },
+    {
+      "slug": "rule-of-law",
+      "nid": 3956,
+      "label": "rule of law"
+    },
+    {
+      "slug": "rule-of-law",
+      "nid": 4004,
+      "label": "rule of law"
+    }
+  ],
+  "judicial-review": [
+    {
+      "slug": "judicial-review",
+      "nid": 3922,
+      "label": "judicial review"
+    }
+  ],
+  "gitmo-bar-association": [
+    {
+      "slug": "gitmo-bar-association",
+      "nid": 3923,
+      "label": "gitmo bar association"
+    }
+  ],
+  "yemeni": [
+    {
+      "slug": "yemeni",
+      "nid": 3923,
+      "label": "yemeni"
+    }
+  ],
+  "jurisdiction": [
+    {
+      "slug": "jurisdiction",
+      "nid": 3923,
+      "label": "jurisdiction"
+    }
+  ],
+  "habeas": [
+    {
+      "slug": "habeas",
+      "nid": 3923,
+      "label": "habeas"
+    }
+  ],
+  "perpetuity": [
+    {
+      "slug": "perpetuity",
+      "nid": 3923,
+      "label": "perpetuity"
+    }
+  ],
+  "adminstrative-review-boards": [
+    {
+      "slug": "adminstrative-review-boards",
+      "nid": 3924,
+      "label": "adminstrative review boards"
+    }
+  ],
+  "military-service": [
+    {
+      "slug": "military-service",
+      "nid": 3924,
+      "label": "military service"
+    }
+  ],
+  "annual-review-board": [
+    {
+      "slug": "annual-review-board",
+      "nid": 3925,
+      "label": "annual review board"
+    },
+    {
+      "slug": "annual-review-board",
+      "nid": 3947,
+      "label": "annual review board"
+    }
+  ],
+  "united-kingdom": [
+    {
+      "slug": "united-kingdom",
+      "nid": 3925,
+      "label": "United Kingdom"
+    }
+  ],
+  "repreive": [
+    {
+      "slug": "repreive",
+      "nid": 3925,
+      "label": "Repreive"
+    }
+  ],
+  "morocco": [
+    {
+      "slug": "morocco",
+      "nid": 3925,
+      "label": "Morocco"
+    }
+  ],
+  "investigations": [
+    {
+      "slug": "investigations",
+      "nid": 3925,
+      "label": "investigations"
+    }
+  ],
+  "life-on-guantanamo": [
+    {
+      "slug": "life-on-guantanamo",
+      "nid": 3926,
+      "label": "life on Guantanamo"
+    }
+  ],
+  "escorts": [
+    {
+      "slug": "escorts",
+      "nid": 3926,
+      "label": "escorts"
+    },
+    {
+      "slug": "escorts",
+      "nid": 3962,
+      "label": "escorts"
+    },
+    {
+      "slug": "escorts",
+      "nid": 3976,
+      "label": "escorts"
+    }
+  ],
+  "military-commissions": [
+    {
+      "slug": "military-commissions",
+      "nid": 3926,
+      "label": "military commissions"
+    },
+    {
+      "slug": "military-commissions",
+      "nid": 4004,
+      "label": "military commissions"
+    }
+  ],
+  "kabul": [
+    {
+      "slug": "kabul",
+      "nid": 3927,
+      "label": "Kabul"
+    },
+    {
+      "slug": "kabul",
+      "nid": 4027,
+      "label": "Kabul"
+    }
+  ],
+  "bagram": [
+    {
+      "slug": "bagram",
+      "nid": 3927,
+      "label": "Bagram"
+    },
+    {
+      "slug": "bagram",
+      "nid": 3944,
+      "label": "Bagram"
+    },
+    {
+      "slug": "bagram",
+      "nid": 3961,
+      "label": "Bagram"
+    },
+    {
+      "slug": "bagram",
+      "nid": 3996,
+      "label": "Bagram"
+    },
+    {
+      "slug": "bagram",
+      "nid": 3997,
+      "label": "Bagram"
+    },
+    {
+      "slug": "bagram",
+      "nid": 4001,
+      "label": "Bagram,"
+    },
+    {
+      "slug": "bagram",
+      "nid": 4014,
+      "label": "Bagram"
+    }
+  ],
+  "prisoner-abuse": [
+    {
+      "slug": "prisoner-abuse",
+      "nid": 3927,
+      "label": "prisoner abuse"
+    }
+  ],
+  "joint-task-force": [
+    {
+      "slug": "joint-task-force",
+      "nid": 3928,
+      "label": "joint task force"
+    },
+    {
+      "slug": "joint-task-force",
+      "nid": 4004,
+      "label": "Joint Task Force"
+    }
+  ],
+  "patriotism": [
+    {
+      "slug": "patriotism",
+      "nid": 3928,
+      "label": "patriotism"
+    }
+  ],
+  "jag": [
+    {
+      "slug": "jag",
+      "nid": 3928,
+      "label": "JAG"
+    },
+    {
+      "slug": "jag",
+      "nid": 3944,
+      "label": "JAG"
+    }
+  ],
+  "freedom": [
+    {
+      "slug": "freedom",
+      "nid": 3928,
+      "label": "freedom"
+    },
+    {
+      "slug": "freedom",
+      "nid": 3940,
+      "label": "freedom"
+    }
+  ],
+  "sailor": [
+    {
+      "slug": "sailor",
+      "nid": 3928,
+      "label": "sailor"
+    }
+  ],
+  "soldier": [
+    {
+      "slug": "soldier",
+      "nid": 3928,
+      "label": "soldier"
+    }
+  ],
+  "uighurs": [
+    {
+      "slug": "uighurs",
+      "nid": 3929,
+      "label": "Uighurs"
+    },
+    {
+      "slug": "uighurs",
+      "nid": 3949,
+      "label": "Uighurs"
+    },
+    {
+      "slug": "uighurs",
+      "nid": 4013,
+      "label": "Uighurs"
+    },
+    {
+      "slug": "uighurs",
+      "nid": 4014,
+      "label": "Uighurs"
+    }
+  ],
+  "china": [
+    {
+      "slug": "china",
+      "nid": 3929,
+      "label": "China"
+    },
+    {
+      "slug": "china",
+      "nid": 3949,
+      "label": "China"
+    },
+    {
+      "slug": "china",
+      "nid": 4000,
+      "label": "China"
+    },
+    {
+      "slug": "china",
+      "nid": 4002,
+      "label": "China"
+    },
+    {
+      "slug": "china",
+      "nid": 4013,
+      "label": "China"
+    },
+    {
+      "slug": "china",
+      "nid": 4014,
+      "label": "China"
+    }
+  ],
+  "tallahassee": [
+    {
+      "slug": "tallahassee",
+      "nid": 3929,
+      "label": "Tallahassee"
+    }
+  ],
+  "florida": [
+    {
+      "slug": "florida",
+      "nid": 3929,
+      "label": "Florida"
+    }
+  ],
+  "state-persecution": [
+    {
+      "slug": "state-persecution",
+      "nid": 3929,
+      "label": "state persecution"
+    }
+  ],
+  "pows": [
+    {
+      "slug": "pows",
+      "nid": 3930,
+      "label": "POWs"
+    }
+  ],
+  "stalag-17": [
+    {
+      "slug": "stalag-17",
+      "nid": 3930,
+      "label": "Stalag 17"
+    }
+  ],
+  "candy-wrapper": [
+    {
+      "slug": "candy-wrapper",
+      "nid": 3931,
+      "label": "candy wrapper"
+    }
+  ],
+  "camp-layout": [
+    {
+      "slug": "camp-layout",
+      "nid": 3931,
+      "label": "camp layout"
+    },
+    {
+      "slug": "camp-layout",
+      "nid": 3994,
+      "label": "camp layout"
+    }
+  ],
+  "military-order": [
+    {
+      "slug": "military-order",
+      "nid": 3932,
+      "label": "military order"
+    }
+  ],
+  "camp-life": [
+    {
+      "slug": "camp-life",
+      "nid": 3932,
+      "label": "camp life"
+    }
+  ],
+  "government-accountability": [
+    {
+      "slug": "government-accountability",
+      "nid": 3933,
+      "label": "government accountability"
+    }
+  ],
+  "guantanamo-research": [
+    {
+      "slug": "guantanamo-research",
+      "nid": 3933,
+      "label": "Guantanamo research"
+    }
+  ],
+  "seton-hall-school-of-law": [
+    {
+      "slug": "seton-hall-school-of-law",
+      "nid": 3933,
+      "label": "Seton Hall School of Law"
+    }
+  ],
+  "zalita": [
+    {
+      "slug": "zalita",
+      "nid": 3934,
+      "label": "Zalita"
+    }
+  ],
+  "utaybi": [
+    {
+      "slug": "utaybi",
+      "nid": 3934,
+      "label": "Utaybi"
+    }
+  ],
+  "suicide": [
+    {
+      "slug": "suicide",
+      "nid": 3934,
+      "label": "suicide"
+    }
+  ],
+  "hunger-strike": [
+    {
+      "slug": "hunger-strike",
+      "nid": 3934,
+      "label": "hunger strike"
+    }
+  ],
+  "libya": [
+    {
+      "slug": "libya",
+      "nid": 3934,
+      "label": "Libya"
+    },
+    {
+      "slug": "libya",
+      "nid": 3962,
+      "label": "Libya"
+    },
+    {
+      "slug": "libya",
+      "nid": 4004,
+      "label": "Libya"
+    }
+  ],
+  "attorneyclient-relationship": [
+    {
+      "slug": "attorneyclient-relationship",
+      "nid": 3935,
+      "label": "attorney/client relationship"
+    },
+    {
+      "slug": "attorneyclient-relationship",
+      "nid": 4047,
+      "label": "attorney/client relationship"
+    }
+  ],
+  "client-frustration": [
+    {
+      "slug": "client-frustration",
+      "nid": 3935,
+      "label": "client frustration"
+    }
+  ],
+  "us-embassy": [
+    {
+      "slug": "us-embassy",
+      "nid": 3938,
+      "label": "US Embassy"
+    }
+  ],
+  "turkish-government": [
+    {
+      "slug": "turkish-government",
+      "nid": 3938,
+      "label": "Turkish government"
+    }
+  ],
+  "criminal-defense-lawyer": [
+    {
+      "slug": "criminal-defense-lawyer",
+      "nid": 3938,
+      "label": "criminal defense lawyer"
+    }
+  ],
+  "international-law": [
+    {
+      "slug": "international-law",
+      "nid": 3938,
+      "label": "International law"
+    }
+  ],
+  "international-relations": [
+    {
+      "slug": "international-relations",
+      "nid": 3938,
+      "label": "international relations"
+    }
+  ],
+  "diplomatic-pressure": [
+    {
+      "slug": "diplomatic-pressure",
+      "nid": 3938,
+      "label": "diplomatic pressure"
+    }
+  ],
+  "european-parliament": [
+    {
+      "slug": "european-parliament",
+      "nid": 3938,
+      "label": "European Parliament"
+    }
+  ],
+  "council-of-europe": [
+    {
+      "slug": "council-of-europe",
+      "nid": 3938,
+      "label": "Council of Europe"
+    }
+  ],
+  "human-rights-organizations": [
+    {
+      "slug": "human-rights-organizations",
+      "nid": 3938,
+      "label": "Human Rights Organizations"
+    }
+  ],
+  "justice": [
+    {
+      "slug": "justice",
+      "nid": 3938,
+      "label": "justice"
+    }
+  ],
+  "baher-azmy": [
+    {
+      "slug": "baher-azmy",
+      "nid": 3938,
+      "label": "Baher Azmy"
+    }
+  ],
+  "csrt": [
+    {
+      "slug": "csrt",
+      "nid": 3938,
+      "label": "CSRT"
+    },
+    {
+      "slug": "csrt",
+      "nid": 3941,
+      "label": "CSRT"
+    },
+    {
+      "slug": "csrt",
+      "nid": 3952,
+      "label": "CSRT"
+    },
+    {
+      "slug": "csrt",
+      "nid": 3956,
+      "label": "CSRT"
+    },
+    {
+      "slug": "csrt",
+      "nid": 4004,
+      "label": "CSRT"
+    }
+  ],
+  "chancellor-angela-merkel": [
+    {
+      "slug": "chancellor-angela-merkel",
+      "nid": 3938,
+      "label": "Chancellor Angela Merkel"
+    }
+  ],
+  "president-bush": [
+    {
+      "slug": "president-bush",
+      "nid": 3938,
+      "label": "President Bush"
+    }
+  ],
+  "media": [
+    {
+      "slug": "media",
+      "nid": 3938,
+      "label": "media"
+    }
+  ],
+  "kandahar": [
+    {
+      "slug": "kandahar",
+      "nid": 3938,
+      "label": "Kandahar"
+    },
+    {
+      "slug": "kandahar",
+      "nid": 3996,
+      "label": "Kandahar"
+    }
+  ],
+  "cia": [
+    {
+      "slug": "cia",
+      "nid": 3938,
+      "label": "CIA"
+    },
+    {
+      "slug": "cia",
+      "nid": 3996,
+      "label": "CIA"
+    }
+  ],
+  "turkey": [
+    {
+      "slug": "turkey",
+      "nid": 3938,
+      "label": "Turkey"
+    }
+  ],
+  "german-defense-ministry": [
+    {
+      "slug": "german-defense-ministry",
+      "nid": 3938,
+      "label": "German Defense Ministry"
+    }
+  ],
+  "prime-minister-frank-walter-steinmeier": [
+    {
+      "slug": "prime-minister-frank-walter-steinmeier",
+      "nid": 3938,
+      "label": "Prime Minister Frank Walter Steinmeier"
+    }
+  ],
+  "mca": [
+    {
+      "slug": "mca",
+      "nid": 3938,
+      "label": "MCA"
+    },
+    {
+      "slug": "mca",
+      "nid": 4004,
+      "label": "MCA"
+    }
+  ],
+  "hicks": [
+    {
+      "slug": "hicks",
+      "nid": 3939,
+      "label": "Hicks"
+    },
+    {
+      "slug": "hicks",
+      "nid": 3992,
+      "label": "Hicks"
+    }
+  ],
+  "bureaucracy": [
+    {
+      "slug": "bureaucracy",
+      "nid": 3939,
+      "label": "bureaucracy"
+    },
+    {
+      "slug": "bureaucracy",
+      "nid": 3977,
+      "label": "bureaucracy"
+    },
+    {
+      "slug": "bureaucracy",
+      "nid": 3994,
+      "label": "bureaucracy"
+    },
+    {
+      "slug": "bureaucracy",
+      "nid": 3998,
+      "label": "bureaucracy"
+    }
+  ],
+  "massachusetts": [
+    {
+      "slug": "massachusetts",
+      "nid": 3940,
+      "label": "Massachusetts"
+    }
+  ],
+  "civil-rights": [
+    {
+      "slug": "civil-rights",
+      "nid": 3940,
+      "label": "Civil Rights"
+    }
+  ],
+  "heroism": [
+    {
+      "slug": "heroism",
+      "nid": 3940,
+      "label": "heroism"
+    }
+  ],
+  "pro-bono": [
+    {
+      "slug": "pro-bono",
+      "nid": 3940,
+      "label": "pro bono"
+    }
+  ],
+  "international-justice-network": [
+    {
+      "slug": "international-justice-network",
+      "nid": 3940,
+      "label": "International Justice Network"
+    }
+  ],
+  "tina-foster": [
+    {
+      "slug": "tina-foster",
+      "nid": 3940,
+      "label": "Tina Foster"
+    }
+  ],
+  "clive-stafford-smith": [
+    {
+      "slug": "clive-stafford-smith",
+      "nid": 3940,
+      "label": "Clive Stafford Smith"
+    },
+    {
+      "slug": "clive-stafford-smith",
+      "nid": 4011,
+      "label": "Clive Stafford Smith"
+    }
+  ],
+  "reprieve": [
+    {
+      "slug": "reprieve",
+      "nid": 3940,
+      "label": "Reprieve"
+    }
+  ],
+  "international-committee-of-the-red-cross": [
+    {
+      "slug": "international-committee-of-the-red-cross",
+      "nid": 3940,
+      "label": "International Committee of the Red Cross"
+    }
+  ],
+  "bahrain": [
+    {
+      "slug": "bahrain",
+      "nid": 3940,
+      "label": "Bahrain"
+    }
+  ],
+  "riyadh": [
+    {
+      "slug": "riyadh",
+      "nid": 3940,
+      "label": "Riyadh"
+    }
+  ],
+  "sham-evidence": [
+    {
+      "slug": "sham-evidence",
+      "nid": 3941,
+      "label": "sham evidence"
+    }
+  ],
+  "military-personal-representatives": [
+    {
+      "slug": "military-personal-representatives",
+      "nid": 3941,
+      "label": "military personal representatives"
+    }
+  ],
+  "sworn-detainee-statements": [
+    {
+      "slug": "sworn-detainee-statements",
+      "nid": 3941,
+      "label": "sworn detainee statements"
+    }
+  ],
+  "secure-facility": [
+    {
+      "slug": "secure-facility",
+      "nid": 3941,
+      "label": "secure facility"
+    },
+    {
+      "slug": "secure-facility",
+      "nid": 3947,
+      "label": "secure facility"
+    },
+    {
+      "slug": "secure-facility",
+      "nid": 3955,
+      "label": "secure facility"
+    },
+    {
+      "slug": "secure-facility",
+      "nid": 3994,
+      "label": "secure facility"
+    }
+  ],
+  "icrc": [
+    {
+      "slug": "icrc",
+      "nid": 3941,
+      "label": "ICRC"
+    }
+  ],
+  "suicide-attempts": [
+    {
+      "slug": "suicide-attempts",
+      "nid": 3941,
+      "label": "suicide attempts"
+    }
+  ],
+  "hunger-strikes": [
+    {
+      "slug": "hunger-strikes",
+      "nid": 3941,
+      "label": "hunger strikes"
+    },
+    {
+      "slug": "hunger-strikes",
+      "nid": 3947,
+      "label": "hunger strikes"
+    },
+    {
+      "slug": "hunger-strikes",
+      "nid": 3961,
+      "label": "hunger strikes"
+    }
+  ],
+  "bosnia": [
+    {
+      "slug": "bosnia",
+      "nid": 3942,
+      "label": "Bosnia"
+    },
+    {
+      "slug": "bosnia",
+      "nid": 4021,
+      "label": "Bosnia"
+    }
+  ],
+  "csrts": [
+    {
+      "slug": "csrts",
+      "nid": 3942,
+      "label": "CSRTs"
+    },
+    {
+      "slug": "csrts",
+      "nid": 3992,
+      "label": "CSRTs"
+    },
+    {
+      "slug": "csrts",
+      "nid": 4014,
+      "label": "CSRTs"
+    }
+  ],
+  "us-supreme-court": [
+    {
+      "slug": "us-supreme-court",
+      "nid": 3942,
+      "label": "US Supreme court "
+    },
+    {
+      "slug": "us-supreme-court",
+      "nid": 4017,
+      "label": "US Supreme Court"
+    }
+  ],
+  "pro-se": [
+    {
+      "slug": "pro-se",
+      "nid": 3944,
+      "label": "pro se"
+    }
+  ],
+  "lack-of-evidence": [
+    {
+      "slug": "lack-of-evidence",
+      "nid": 3944,
+      "label": "lack of evidence"
+    }
+  ],
+  "frequent-flyer-program": [
+    {
+      "slug": "frequent-flyer-program",
+      "nid": 3944,
+      "label": "frequent flyer program"
+    }
+  ],
+  "child-soldiers": [
+    {
+      "slug": "child-soldiers",
+      "nid": 3944,
+      "label": "child soldiers"
+    },
+    {
+      "slug": "child-soldiers",
+      "nid": 4020,
+      "label": "child soldiers"
+    }
+  ],
+  "motions-to-dismiss": [
+    {
+      "slug": "motions-to-dismiss",
+      "nid": 3944,
+      "label": "motions to dismiss"
+    }
+  ],
+  "freedom-of-speech": [
+    {
+      "slug": "freedom-of-speech",
+      "nid": 3945,
+      "label": "freedom of speech"
+    }
+  ],
+  "pro-bono-work": [
+    {
+      "slug": "pro-bono-work",
+      "nid": 3945,
+      "label": "pro bono work"
+    }
+  ],
+  "law-enforcement": [
+    {
+      "slug": "law-enforcement",
+      "nid": 3946,
+      "label": "law enforcement"
+    }
+  ],
+  "criminal-law": [
+    {
+      "slug": "criminal-law",
+      "nid": 3946,
+      "label": "criminal law"
+    }
+  ],
+  "terroism": [
+    {
+      "slug": "terroism",
+      "nid": 3946,
+      "label": "terroism"
+    }
+  ],
+  "paradigm": [
+    {
+      "slug": "paradigm",
+      "nid": 3946,
+      "label": "paradigm"
+    }
+  ],
+  "bush": [
+    {
+      "slug": "bush",
+      "nid": 3946,
+      "label": "bush"
+    },
+    {
+      "slug": "bush",
+      "nid": 3984,
+      "label": "Bush"
+    }
+  ],
+  "force-feedings": [
+    {
+      "slug": "force-feedings",
+      "nid": 3947,
+      "label": "force feedings"
+    }
+  ],
+  "approved-to-leave": [
+    {
+      "slug": "approved-to-leave",
+      "nid": 3947,
+      "label": "approved to leave"
+    }
+  ],
+  "social-protest": [
+    {
+      "slug": "social-protest",
+      "nid": 3949,
+      "label": "social protest"
+    }
+  ],
+  "attorney": [
+    {
+      "slug": "attorney",
+      "nid": 3950,
+      "label": "attorney"
+    },
+    {
+      "slug": "attorney",
+      "nid": 4023,
+      "label": "attorney"
+    }
+  ],
+  "clearance": [
+    {
+      "slug": "clearance",
+      "nid": 3950,
+      "label": "clearance"
+    },
+    {
+      "slug": "clearance",
+      "nid": 3988,
+      "label": "clearance"
+    }
+  ],
+  "solo": [
+    {
+      "slug": "solo",
+      "nid": 3951,
+      "label": "solo"
+    }
+  ],
+  "libyan": [
+    {
+      "slug": "libyan",
+      "nid": 3951,
+      "label": "Libyan"
+    }
+  ],
+  "bounty": [
+    {
+      "slug": "bounty",
+      "nid": 3951,
+      "label": "bounty"
+    }
+  ],
+  "leaflets": [
+    {
+      "slug": "leaflets",
+      "nid": 3951,
+      "label": "leaflets"
+    }
+  ],
+  "medical-treatment": [
+    {
+      "slug": "medical-treatment",
+      "nid": 3951,
+      "label": "medical treatment"
+    },
+    {
+      "slug": "medical-treatment",
+      "nid": 3961,
+      "label": "medical treatment"
+    }
+  ],
+  "huffington-post": [
+    {
+      "slug": "huffington-post",
+      "nid": 3951,
+      "label": "Huffington Post"
+    }
+  ],
+  "prisoner-rights": [
+    {
+      "slug": "prisoner-rights",
+      "nid": 3952,
+      "label": "prisoner rights"
+    }
+  ],
+  "northern-alliance": [
+    {
+      "slug": "northern-alliance",
+      "nid": 3952,
+      "label": "Northern Alliance"
+    },
+    {
+      "slug": "northern-alliance",
+      "nid": 3971,
+      "label": "Northern Alliance"
+    },
+    {
+      "slug": "northern-alliance",
+      "nid": 4004,
+      "label": "Northern Alliance"
+    }
+  ],
+  "detainee-health": [
+    {
+      "slug": "detainee-health",
+      "nid": 3952,
+      "label": "detainee health"
+    }
+  ],
+  "guantanamo-escorts": [
+    {
+      "slug": "guantanamo-escorts",
+      "nid": 3953,
+      "label": "Guantanamo escorts"
+    }
+  ],
+  "contempt": [
+    {
+      "slug": "contempt",
+      "nid": 3953,
+      "label": "contempt"
+    }
+  ],
+  "commander-mccarthy": [
+    {
+      "slug": "commander-mccarthy",
+      "nid": 3953,
+      "label": "Commander McCarthy"
+    }
+  ],
+  "attorney-client-privilege": [
+    {
+      "slug": "attorney-client-privilege",
+      "nid": 3953,
+      "label": "attorney-client privilege"
+    },
+    {
+      "slug": "attorney-client-privilege",
+      "nid": 3954,
+      "label": "attorney-client privilege"
+    },
+    {
+      "slug": "attorney-client-privilege",
+      "nid": 4004,
+      "label": "attorney-client privilege"
+    }
+  ],
+  "custody": [
+    {
+      "slug": "custody",
+      "nid": 3954,
+      "label": "custody"
+    },
+    {
+      "slug": "custody",
+      "nid": 4004,
+      "label": "custody"
+    }
+  ],
+  "classified-materials": [
+    {
+      "slug": "classified-materials",
+      "nid": 3954,
+      "label": "classified materials"
+    }
+  ],
+  "interpreters": [
+    {
+      "slug": "interpreters",
+      "nid": 3955,
+      "label": "interpreters"
+    },
+    {
+      "slug": "interpreters",
+      "nid": 3957,
+      "label": "interpreters"
+    },
+    {
+      "slug": "interpreters",
+      "nid": 3971,
+      "label": "interpreters"
+    }
+  ],
+  "interrogation": [
+    {
+      "slug": "interrogation",
+      "nid": 3955,
+      "label": "interrogation"
+    },
+    {
+      "slug": "interrogation",
+      "nid": 3960,
+      "label": "interrogation"
+    },
+    {
+      "slug": "interrogation",
+      "nid": 3973,
+      "label": "interrogation"
+    },
+    {
+      "slug": "interrogation",
+      "nid": 3997,
+      "label": "interrogation"
+    },
+    {
+      "slug": "interrogation",
+      "nid": 4004,
+      "label": "interrogation"
+    }
+  ],
+  "cleared-for-release": [
+    {
+      "slug": "cleared-for-release",
+      "nid": 3955,
+      "label": "cleared for release"
+    }
+  ],
+  "released": [
+    {
+      "slug": "released",
+      "nid": 3955,
+      "label": "released"
+    },
+    {
+      "slug": "released",
+      "nid": 3979,
+      "label": "released"
+    }
+  ],
+  "combatant-status-review-tribunals": [
+    {
+      "slug": "combatant-status-review-tribunals",
+      "nid": 3956,
+      "label": "Combatant Status Review Tribunals"
+    },
+    {
+      "slug": "combatant-status-review-tribunals",
+      "nid": 4004,
+      "label": "Combatant Status Review Tribunals"
+    }
+  ],
+  "access-to-counsel": [
+    {
+      "slug": "access-to-counsel",
+      "nid": 3956,
+      "label": "access to counsel"
+    }
+  ],
+  "mamdouh-habib": [
+    {
+      "slug": "mamdouh-habib",
+      "nid": 3956,
+      "label": "Mamdouh Habib"
+    }
+  ],
+  "personal": [
+    {
+      "slug": "personal",
+      "nid": 3956,
+      "label": "personal"
+    }
+  ],
+  "trouble-for-attorneys": [
+    {
+      "slug": "trouble-for-attorneys",
+      "nid": 3957,
+      "label": "trouble for attorneys"
+    }
+  ],
+  "becoming-an-interpretor": [
+    {
+      "slug": "becoming-an-interpretor",
+      "nid": 3958,
+      "label": "becoming an interpretor"
+    }
+  ],
+  "getting-clearance": [
+    {
+      "slug": "getting-clearance",
+      "nid": 3958,
+      "label": "getting clearance"
+    }
+  ],
+  "funny-story": [
+    {
+      "slug": "funny-story",
+      "nid": 3959,
+      "label": "funny story"
+    }
+  ],
+  "guantanmo-interpretor": [
+    {
+      "slug": "guantanmo-interpretor",
+      "nid": 3959,
+      "label": "guantanmo interpretor"
+    }
+  ],
+  "sex": [
+    {
+      "slug": "sex",
+      "nid": 3959,
+      "label": "sex"
+    }
+  ],
+  "real-conversation": [
+    {
+      "slug": "real-conversation",
+      "nid": 3959,
+      "label": "real conversation"
+    }
+  ],
+  "wife": [
+    {
+      "slug": "wife",
+      "nid": 3959,
+      "label": "wife "
+    },
+    {
+      "slug": "wife",
+      "nid": 4003,
+      "label": "wife"
+    }
+  ],
+  "boumediene": [
+    {
+      "slug": "boumediene",
+      "nid": 3960,
+      "label": "Boumediene"
+    },
+    {
+      "slug": "boumediene",
+      "nid": 3992,
+      "label": "Boumediene"
+    },
+    {
+      "slug": "boumediene",
+      "nid": 3994,
+      "label": "Boumediene"
+    },
+    {
+      "slug": "boumediene",
+      "nid": 4017,
+      "label": "Boumediene"
+    },
+    {
+      "slug": "boumediene",
+      "nid": 4020,
+      "label": "Boumediene"
+    }
+  ],
+  "immediate-response-force": [
+    {
+      "slug": "immediate-response-force",
+      "nid": 3960,
+      "label": "immediate response force"
+    }
+  ],
+  "how-clients-ended-up-in-gtmo": [
+    {
+      "slug": "how-clients-ended-up-in-gtmo",
+      "nid": 3960,
+      "label": "how clients ended up in GTMO"
+    }
+  ],
+  "dignity": [
+    {
+      "slug": "dignity",
+      "nid": 3961,
+      "label": "dignity"
+    }
+  ],
+  "mohammed-al-amin": [
+    {
+      "slug": "mohammed-al-amin",
+      "nid": 3961,
+      "label": "Mohammed Al Amin"
+    }
+  ],
+  "mauritania": [
+    {
+      "slug": "mauritania",
+      "nid": 3961,
+      "label": "Mauritania"
+    }
+  ],
+  "beating": [
+    {
+      "slug": "beating",
+      "nid": 3961,
+      "label": "beating"
+    }
+  ],
+  "abuse": [
+    {
+      "slug": "abuse",
+      "nid": 3961,
+      "label": "abuse"
+    }
+  ],
+  "forced-feeding": [
+    {
+      "slug": "forced-feeding",
+      "nid": 3961,
+      "label": "forced feeding"
+    }
+  ],
+  "government-lawyer": [
+    {
+      "slug": "government-lawyer",
+      "nid": 3961,
+      "label": "government lawyer"
+    }
+  ],
+  "military-review": [
+    {
+      "slug": "military-review",
+      "nid": 3962,
+      "label": "military review"
+    }
+  ],
+  "saifullah-paracha": [
+    {
+      "slug": "saifullah-paracha",
+      "nid": 3963,
+      "label": "Saifullah Paracha"
+    }
+  ],
+  "green-card": [
+    {
+      "slug": "green-card",
+      "nid": 3963,
+      "label": "green card"
+    }
+  ],
+  "pakistani": [
+    {
+      "slug": "pakistani",
+      "nid": 3963,
+      "label": "Pakistani"
+    }
+  ],
+  "roque": [
+    {
+      "slug": "roque",
+      "nid": 3964,
+      "label": "Roque"
+    }
+  ],
+  "cuba": [
+    {
+      "slug": "cuba",
+      "nid": 3964,
+      "label": "cuba"
+    },
+    {
+      "slug": "cuba",
+      "nid": 3965,
+      "label": "Cuba"
+    },
+    {
+      "slug": "cuba",
+      "nid": 4004,
+      "label": "Cuba"
+    }
+  ],
+  "detainee-treatment-act": [
+    {
+      "slug": "detainee-treatment-act",
+      "nid": 3964,
+      "label": "detainee treatment act"
+    },
+    {
+      "slug": "detainee-treatment-act",
+      "nid": 3990,
+      "label": "Detainee Treatment Act"
+    },
+    {
+      "slug": "detainee-treatment-act",
+      "nid": 4004,
+      "label": "Detainee Treatment Act"
+    },
+    {
+      "slug": "detainee-treatment-act",
+      "nid": 4017,
+      "label": "Detainee Treatment Act"
+    }
+  ],
+  "castro": [
+    {
+      "slug": "castro",
+      "nid": 3965,
+      "label": "Castro"
+    }
+  ],
+  "kuwait": [
+    {
+      "slug": "kuwait",
+      "nid": 3966,
+      "label": "Kuwait"
+    }
+  ],
+  "soft-power": [
+    {
+      "slug": "soft-power",
+      "nid": 3967,
+      "label": "soft power"
+    }
+  ],
+  "realities-of-detention": [
+    {
+      "slug": "realities-of-detention",
+      "nid": 3967,
+      "label": "realities of detention"
+    }
+  ],
+  "detention-policies": [
+    {
+      "slug": "detention-policies",
+      "nid": 3967,
+      "label": "detention policies"
+    }
+  ],
+  "naval-brig": [
+    {
+      "slug": "naval-brig",
+      "nid": 3968,
+      "label": "naval brig"
+    }
+  ],
+  "charleston": [
+    {
+      "slug": "charleston",
+      "nid": 3968,
+      "label": "Charleston"
+    }
+  ],
+  "sc": [
+    {
+      "slug": "sc",
+      "nid": 3968,
+      "label": "SC"
+    }
+  ],
+  "enemy-combatant": [
+    {
+      "slug": "enemy-combatant",
+      "nid": 3968,
+      "label": "enemy combatant"
+    },
+    {
+      "slug": "enemy-combatant",
+      "nid": 3984,
+      "label": "enemy combatant"
+    },
+    {
+      "slug": "enemy-combatant",
+      "nid": 4003,
+      "label": "enemy combatant"
+    },
+    {
+      "slug": "enemy-combatant",
+      "nid": 4004,
+      "label": "enemy combatant"
+    },
+    {
+      "slug": "enemy-combatant",
+      "nid": 4014,
+      "label": "enemy combatant"
+    },
+    {
+      "slug": "enemy-combatant",
+      "nid": 4026,
+      "label": "enemy combatant"
+    }
+  ],
+  "how-habeas-corpus-petitions-got-started": [
+    {
+      "slug": "how-habeas-corpus-petitions-got-started",
+      "nid": 3968,
+      "label": "how habeas corpus petitions got started"
+    }
+  ],
+  "spurious-evidence": [
+    {
+      "slug": "spurious-evidence",
+      "nid": 3968,
+      "label": "spurious evidence"
+    },
+    {
+      "slug": "spurious-evidence",
+      "nid": 3977,
+      "label": "spurious evidence,"
+    },
+    {
+      "slug": "spurious-evidence",
+      "nid": 3996,
+      "label": "spurious evidence"
+    }
+  ],
+  "authorization-for-use-of-military-force-aumf": [
+    {
+      "slug": "authorization-for-use-of-military-force-aumf",
+      "nid": 3968,
+      "label": "Authorization for use of military force (AUMF)"
+    }
+  ],
+  "getting-into-the-prison": [
+    {
+      "slug": "getting-into-the-prison",
+      "nid": 3969,
+      "label": "getting into the prison"
+    }
+  ],
+  "military-personnel": [
+    {
+      "slug": "military-personnel",
+      "nid": 3970,
+      "label": "military personnel"
+    }
+  ],
+  "female-attorneys": [
+    {
+      "slug": "female-attorneys",
+      "nid": 3971,
+      "label": "female attorneys"
+    },
+    {
+      "slug": "female-attorneys",
+      "nid": 4010,
+      "label": "female attorneys"
+    }
+  ],
+  "charity-work": [
+    {
+      "slug": "charity-work",
+      "nid": 3971,
+      "label": "charity work"
+    },
+    {
+      "slug": "charity-work",
+      "nid": 3973,
+      "label": "charity work"
+    }
+  ],
+  "fordham-law-schoo": [
+    {
+      "slug": "fordham-law-schoo",
+      "nid": 3972,
+      "label": "Fordham Law Schoo"
+    }
+  ],
+  "traveling-to-gtmo": [
+    {
+      "slug": "traveling-to-gtmo",
+      "nid": 3972,
+      "label": "traveling to GTMO"
+    }
+  ],
+  "meeting-the-client": [
+    {
+      "slug": "meeting-the-client",
+      "nid": 3972,
+      "label": "meeting the client"
+    }
+  ],
+  "life-at-gtmo": [
+    {
+      "slug": "life-at-gtmo",
+      "nid": 3972,
+      "label": "life at GTMO"
+    }
+  ],
+  "contacting-the-clients-family": [
+    {
+      "slug": "contacting-the-clients-family",
+      "nid": 3973,
+      "label": "contacting the client's family"
+    }
+  ],
+  "classification-review": [
+    {
+      "slug": "classification-review",
+      "nid": 3973,
+      "label": "classification review"
+    }
+  ],
+  "rejecting-attorneys": [
+    {
+      "slug": "rejecting-attorneys",
+      "nid": 3973,
+      "label": "rejecting attorneys"
+    }
+  ],
+  "civil-liberties": [
+    {
+      "slug": "civil-liberties",
+      "nid": 3975,
+      "label": "civil liberties"
+    }
+  ],
+  "unlawful-detention-individual-fredom": [
+    {
+      "slug": "unlawful-detention-individual-fredom",
+      "nid": 3975,
+      "label": "unlawful detention individual fredom"
+    }
+  ],
+  "balance-of-powers": [
+    {
+      "slug": "balance-of-powers",
+      "nid": 3975,
+      "label": "balance of powers"
+    }
+  ],
+  "life-on-gtmo": [
+    {
+      "slug": "life-on-gtmo",
+      "nid": 3976,
+      "label": "life on GTMO"
+    }
+  ],
+  "syria": [
+    {
+      "slug": "syria",
+      "nid": 3976,
+      "label": "Syria"
+    },
+    {
+      "slug": "syria",
+      "nid": 3986,
+      "label": "Syria"
+    }
+  ],
+  "isolation": [
+    {
+      "slug": "isolation",
+      "nid": 3976,
+      "label": "isolation"
+    },
+    {
+      "slug": "isolation",
+      "nid": 3986,
+      "label": "isolation"
+    },
+    {
+      "slug": "isolation",
+      "nid": 4005,
+      "label": "isolation"
+    },
+    {
+      "slug": "isolation",
+      "nid": 4010,
+      "label": "isolation"
+    }
+  ],
+  "ghost-sites": [
+    {
+      "slug": "ghost-sites",
+      "nid": 3979,
+      "label": "ghost sites"
+    }
+  ],
+  "political-solutions": [
+    {
+      "slug": "political-solutions",
+      "nid": 3979,
+      "label": "political solutions"
+    }
+  ],
+  "australia": [
+    {
+      "slug": "australia",
+      "nid": 3979,
+      "label": "Australia"
+    },
+    {
+      "slug": "australia",
+      "nid": 4003,
+      "label": "australia"
+    }
+  ],
+  "rejection-of-attorneys": [
+    {
+      "slug": "rejection-of-attorneys",
+      "nid": 3981,
+      "label": "rejection of attorneys"
+    }
+  ],
+  "escort": [
+    {
+      "slug": "escort",
+      "nid": 3981,
+      "label": "escort"
+    }
+  ],
+  "torture-memo": [
+    {
+      "slug": "torture-memo",
+      "nid": 3984,
+      "label": "torture memo"
+    }
+  ],
+  "aclu": [
+    {
+      "slug": "aclu",
+      "nid": 3984,
+      "label": "aclu"
+    }
+  ],
+  "enhanced-interrogation": [
+    {
+      "slug": "enhanced-interrogation",
+      "nid": 3984,
+      "label": "enhanced interrogation"
+    }
+  ],
+  "uzbekistan": [
+    {
+      "slug": "uzbekistan",
+      "nid": 3985,
+      "label": "Uzbekistan"
+    }
+  ],
+  "gaza": [
+    {
+      "slug": "gaza",
+      "nid": 3986,
+      "label": "Gaza"
+    }
+  ],
+  "the-clients-personal-life": [
+    {
+      "slug": "the-clients-personal-life",
+      "nid": 3986,
+      "label": "the client's personal life"
+    }
+  ],
+  "tajikistan": [
+    {
+      "slug": "tajikistan",
+      "nid": 3986,
+      "label": "Tajikistan"
+    }
+  ],
+  "marine": [
+    {
+      "slug": "marine",
+      "nid": 3988,
+      "label": "Marine"
+    }
+  ],
+  "watchlist": [
+    {
+      "slug": "watchlist",
+      "nid": 3988,
+      "label": "watchlist"
+    }
+  ],
+  "commissions": [
+    {
+      "slug": "commissions",
+      "nid": 3990,
+      "label": "commissions"
+    }
+  ],
+  "frustration": [
+    {
+      "slug": "frustration",
+      "nid": 3990,
+      "label": "frustration"
+    }
+  ],
+  "dta": [
+    {
+      "slug": "dta",
+      "nid": 3990,
+      "label": "DTA"
+    },
+    {
+      "slug": "dta",
+      "nid": 4004,
+      "label": "DTA"
+    }
+  ],
+  "constitutional-law": [
+    {
+      "slug": "constitutional-law",
+      "nid": 3990,
+      "label": "constitutional law"
+    }
+  ],
+  "headscarf": [
+    {
+      "slug": "headscarf",
+      "nid": 3990,
+      "label": "headscarf"
+    }
+  ],
+  "detainee": [
+    {
+      "slug": "detainee",
+      "nid": 3991,
+      "label": "detainee"
+    },
+    {
+      "slug": "detainee",
+      "nid": 4004,
+      "label": "detainee"
+    }
+  ],
+  "fahd-umar": [
+    {
+      "slug": "fahd-umar",
+      "nid": 3991,
+      "label": "Fahd Umar"
+    }
+  ],
+  "saudi": [
+    {
+      "slug": "saudi",
+      "nid": 3991,
+      "label": "Saudi"
+    }
+  ],
+  "habeas-petitions": [
+    {
+      "slug": "habeas-petitions",
+      "nid": 3991,
+      "label": "habeas petitions"
+    }
+  ],
+  "suspension-of-habeas-corpus": [
+    {
+      "slug": "suspension-of-habeas-corpus",
+      "nid": 3992,
+      "label": "suspension of habeas corpus"
+    }
+  ],
+  "al-odah": [
+    {
+      "slug": "al-odah",
+      "nid": 3992,
+      "label": "Al Odah"
+    },
+    {
+      "slug": "al-odah",
+      "nid": 4016,
+      "label": "Al Odah"
+    },
+    {
+      "slug": "al-odah",
+      "nid": 4017,
+      "label": "Al Odah"
+    }
+  ],
+  "abu-ghraib": [
+    {
+      "slug": "abu-ghraib",
+      "nid": 3992,
+      "label": "Abu Ghraib"
+    },
+    {
+      "slug": "abu-ghraib",
+      "nid": 3997,
+      "label": "Abu Ghraib"
+    }
+  ],
+  "padilla": [
+    {
+      "slug": "padilla",
+      "nid": 3992,
+      "label": "Padilla"
+    }
+  ],
+  "soldiers": [
+    {
+      "slug": "soldiers",
+      "nid": 3993,
+      "label": "soldiers"
+    }
+  ],
+  "nametag": [
+    {
+      "slug": "nametag",
+      "nid": 3993,
+      "label": "nametag"
+    }
+  ],
+  "numbers": [
+    {
+      "slug": "numbers",
+      "nid": 3993,
+      "label": "numbers"
+    }
+  ],
+  "shackles": [
+    {
+      "slug": "shackles",
+      "nid": 3993,
+      "label": "shackles"
+    }
+  ],
+  "warlords": [
+    {
+      "slug": "warlords",
+      "nid": 3993,
+      "label": "warlords"
+    }
+  ],
+  "iguana": [
+    {
+      "slug": "iguana",
+      "nid": 3993,
+      "label": "Iguana"
+    }
+  ],
+  "military-commissions-act": [
+    {
+      "slug": "military-commissions-act",
+      "nid": 3994,
+      "label": "Military Commissions Act"
+    },
+    {
+      "slug": "military-commissions-act",
+      "nid": 4004,
+      "label": "Military Commissions Act"
+    },
+    {
+      "slug": "military-commissions-act",
+      "nid": 4007,
+      "label": "Military Commissions Act"
+    },
+    {
+      "slug": "military-commissions-act",
+      "nid": 4016,
+      "label": "Military Commissions Act"
+    },
+    {
+      "slug": "military-commissions-act",
+      "nid": 4017,
+      "label": "Military Commissions Act"
+    }
+  ],
+  "maher-arar": [
+    {
+      "slug": "maher-arar",
+      "nid": 3995,
+      "label": "Maher Arar"
+    }
+  ],
+  "torture-by-proxy": [
+    {
+      "slug": "torture-by-proxy",
+      "nid": 3995,
+      "label": "torture by proxy"
+    }
+  ],
+  "khaled-el-masri": [
+    {
+      "slug": "khaled-el-masri",
+      "nid": 3995,
+      "label": "Khaled El-Masri"
+    }
+  ],
+  "cia-black-sites": [
+    {
+      "slug": "cia-black-sites",
+      "nid": 3995,
+      "label": "CIA Black Sites"
+    }
+  ],
+  "amnesty-international": [
+    {
+      "slug": "amnesty-international",
+      "nid": 3995,
+      "label": "Amnesty International"
+    }
+  ],
+  "rendition-and-secret-detention-program": [
+    {
+      "slug": "rendition-and-secret-detention-program",
+      "nid": 3995,
+      "label": "rendition and secret detention Program"
+    }
+  ],
+  "nyu-school-of-law-center-for-human-rights-and-global-justice": [
+    {
+      "slug": "nyu-school-of-law-center-for-human-rights-and-global-justice",
+      "nid": 3995,
+      "label": "NYU School of Law Center for Human Rights and Global Justice"
+    }
+  ],
+  "nyu-school-of-law-international-human-rights-clinic": [
+    {
+      "slug": "nyu-school-of-law-international-human-rights-clinic",
+      "nid": 3995,
+      "label": "NYU School of Law International Human Rights Clinic"
+    }
+  ],
+  "mohammd-al-asad": [
+    {
+      "slug": "mohammd-al-asad",
+      "nid": 3995,
+      "label": "Mohammd al-Asad"
+    }
+  ],
+  "secret-detention": [
+    {
+      "slug": "secret-detention",
+      "nid": 3996,
+      "label": "secret detention"
+    }
+  ],
+  "cia-mistakes": [
+    {
+      "slug": "cia-mistakes",
+      "nid": 3996,
+      "label": "CIA mistakes"
+    }
+  ],
+  "eastern-europe": [
+    {
+      "slug": "eastern-europe",
+      "nid": 3996,
+      "label": "Eastern Europe"
+    }
+  ],
+  "challenges-of-keeping-secrets": [
+    {
+      "slug": "challenges-of-keeping-secrets",
+      "nid": 3996,
+      "label": "challenges of keeping secrets"
+    }
+  ],
+  "leaks": [
+    {
+      "slug": "leaks",
+      "nid": 3996,
+      "label": "leaks"
+    }
+  ],
+  "glomar-doctrine": [
+    {
+      "slug": "glomar-doctrine",
+      "nid": 3997,
+      "label": "\"Glomar\" doctrine"
+    }
+  ],
+  "uighers": [
+    {
+      "slug": "uighers",
+      "nid": 4000,
+      "label": "Uighers"
+    },
+    {
+      "slug": "uighers",
+      "nid": 4002,
+      "label": "Uighers"
+    }
+  ],
+  "politics": [
+    {
+      "slug": "politics",
+      "nid": 4001,
+      "label": "politics"
+    }
+  ],
+  "pul-e-charkhi": [
+    {
+      "slug": "pul-e-charkhi",
+      "nid": 4001,
+      "label": "Pul-e-Charkhi"
+    },
+    {
+      "slug": "pul-e-charkhi",
+      "nid": 4019,
+      "label": "Pul-e-Charkhi"
+    }
+  ],
+  "macarthur": [
+    {
+      "slug": "macarthur",
+      "nid": 4003,
+      "label": "macarthur"
+    }
+  ],
+  "jewish": [
+    {
+      "slug": "jewish",
+      "nid": 4003,
+      "label": "Jewish"
+    }
+  ],
+  "mamdouh": [
+    {
+      "slug": "mamdouh",
+      "nid": 4003,
+      "label": "Mamdouh"
+    }
+  ],
+  "family": [
+    {
+      "slug": "family",
+      "nid": 4003,
+      "label": "family"
+    }
+  ],
+  "trust": [
+    {
+      "slug": "trust",
+      "nid": 4003,
+      "label": "trust"
+    }
+  ],
+  "charitable-work": [
+    {
+      "slug": "charitable-work",
+      "nid": 4004,
+      "label": "Charitable work"
+    },
+    {
+      "slug": "charitable-work",
+      "nid": 4021,
+      "label": "charitable work"
+    }
+  ],
+  "united-states-armed-forces": [
+    {
+      "slug": "united-states-armed-forces",
+      "nid": 4004,
+      "label": "United States Armed Forces"
+    }
+  ],
+  "captured": [
+    {
+      "slug": "captured",
+      "nid": 4004,
+      "label": "captured"
+    }
+  ],
+  "2001-attacks": [
+    {
+      "slug": "2001-attacks",
+      "nid": 4004,
+      "label": "2001 attacks"
+    }
+  ],
+  "next-friend-petitions": [
+    {
+      "slug": "next-friend-petitions",
+      "nid": 4004,
+      "label": "next friend petitions"
+    }
+  ],
+  "iraq": [
+    {
+      "slug": "iraq",
+      "nid": 4004,
+      "label": "Iraq"
+    }
+  ],
+  "doj": [
+    {
+      "slug": "doj",
+      "nid": 4004,
+      "label": "DOJ"
+    }
+  ],
+  "security-clearnance": [
+    {
+      "slug": "security-clearnance",
+      "nid": 4004,
+      "label": "security clearnance"
+    }
+  ],
+  "secured-facility": [
+    {
+      "slug": "secured-facility",
+      "nid": 4004,
+      "label": "secured facility"
+    }
+  ],
+  "classified-evidence": [
+    {
+      "slug": "classified-evidence",
+      "nid": 4004,
+      "label": "classified evidence"
+    }
+  ],
+  "maximum-security": [
+    {
+      "slug": "maximum-security",
+      "nid": 4004,
+      "label": "maximum security"
+    }
+  ],
+  "indefinitely-imprisoned": [
+    {
+      "slug": "indefinitely-imprisoned",
+      "nid": 4004,
+      "label": "indefinitely imprisoned"
+    }
+  ],
+  "volunteer-lawyers": [
+    {
+      "slug": "volunteer-lawyers",
+      "nid": 4004,
+      "label": "volunteer lawyers"
+    }
+  ],
+  "writs-of-habaes-corpus": [
+    {
+      "slug": "writs-of-habaes-corpus",
+      "nid": 4004,
+      "label": "writs of habaes corpus"
+    }
+  ],
+  "united-states-district-court-for-the-district-of-columbia": [
+    {
+      "slug": "united-states-district-court-for-the-district-of-columbia",
+      "nid": 4004,
+      "label": "United States District Court for the District of Columbia"
+    }
+  ],
+  "federal-constitution": [
+    {
+      "slug": "federal-constitution",
+      "nid": 4004,
+      "label": "federal Constitution"
+    }
+  ],
+  "suspension-clause": [
+    {
+      "slug": "suspension-clause",
+      "nid": 4004,
+      "label": "suspension clause"
+    },
+    {
+      "slug": "suspension-clause",
+      "nid": 4007,
+      "label": "Suspension clause"
+    },
+    {
+      "slug": "suspension-clause",
+      "nid": 4017,
+      "label": "Suspension Clause"
+    }
+  ],
+  "international-conventions": [
+    {
+      "slug": "international-conventions",
+      "nid": 4004,
+      "label": "international conventions"
+    }
+  ],
+  "international-treaties": [
+    {
+      "slug": "international-treaties",
+      "nid": 4004,
+      "label": "international treaties"
+    }
+  ],
+  "aliens": [
+    {
+      "slug": "aliens",
+      "nid": 4004,
+      "label": "aliens"
+    }
+  ],
+  "military-custody": [
+    {
+      "slug": "military-custody",
+      "nid": 4004,
+      "label": "military custody"
+    }
+  ],
+  "al-odah-v-us": [
+    {
+      "slug": "al-odah-v-us",
+      "nid": 4004,
+      "label": "Al Odah v. U.S."
+    }
+  ],
+  "kangaroo-courts": [
+    {
+      "slug": "kangaroo-courts",
+      "nid": 4004,
+      "label": "kangaroo courts"
+    }
+  ],
+  "secretary-of-defense": [
+    {
+      "slug": "secretary-of-defense",
+      "nid": 4004,
+      "label": "Secretary of Defense"
+    }
+  ],
+  "hamdan-v-rumsfeld": [
+    {
+      "slug": "hamdan-v-rumsfeld",
+      "nid": 4004,
+      "label": "Hamdan v. Rumsfeld"
+    }
+  ],
+  "code-of-military-justice": [
+    {
+      "slug": "code-of-military-justice",
+      "nid": 4004,
+      "label": "Code of Military Justice"
+    }
+  ],
+  "ucmj": [
+    {
+      "slug": "ucmj",
+      "nid": 4004,
+      "label": "UCMJ"
+    }
+  ],
+  "detained": [
+    {
+      "slug": "detained",
+      "nid": 4004,
+      "label": "detained"
+    }
+  ],
+  "boumediene-v-bush": [
+    {
+      "slug": "boumediene-v-bush",
+      "nid": 4004,
+      "label": "Boumediene v. Bush"
+    }
+  ],
+  "johnson-v-eisentrager": [
+    {
+      "slug": "johnson-v-eisentrager",
+      "nid": 4004,
+      "label": "Johnson v. Eisentrager"
+    }
+  ],
+  "administrative-review-board-hearings": [
+    {
+      "slug": "administrative-review-board-hearings",
+      "nid": 4004,
+      "label": "Administrative Review Board Hearings"
+    }
+  ],
+  "tribunal-presidents": [
+    {
+      "slug": "tribunal-presidents",
+      "nid": 4004,
+      "label": "Tribunal Presidents"
+    }
+  ],
+  "personal-representative": [
+    {
+      "slug": "personal-representative",
+      "nid": 4004,
+      "label": "Personal Representative"
+    }
+  ],
+  "csrt-transcripts": [
+    {
+      "slug": "csrt-transcripts",
+      "nid": 4004,
+      "label": "CSRT transcripts"
+    }
+  ],
+  "redaction": [
+    {
+      "slug": "redaction",
+      "nid": 4004,
+      "label": "redaction"
+    }
+  ],
+  "administrative-review-board": [
+    {
+      "slug": "administrative-review-board",
+      "nid": 4004,
+      "label": "Administrative Review Board"
+    }
+  ],
+  "arb": [
+    {
+      "slug": "arb",
+      "nid": 4004,
+      "label": "ARB"
+    }
+  ],
+  "hearsay": [
+    {
+      "slug": "hearsay",
+      "nid": 4004,
+      "label": "hearsay"
+    }
+  ],
+  "hearsay-allegations": [
+    {
+      "slug": "hearsay-allegations",
+      "nid": 4004,
+      "label": "hearsay allegations"
+    }
+  ],
+  "coercion": [
+    {
+      "slug": "coercion",
+      "nid": 4004,
+      "label": "coercion"
+    }
+  ],
+  "worst-of-the-worst": [
+    {
+      "slug": "worst-of-the-worst",
+      "nid": 4004,
+      "label": "worst of the worst"
+    }
+  ],
+  "air-sunshine": [
+    {
+      "slug": "air-sunshine",
+      "nid": 4004,
+      "label": "Air Sunshine"
+    }
+  ],
+  "lynx-air": [
+    {
+      "slug": "lynx-air",
+      "nid": 4004,
+      "label": "Lynx Air"
+    }
+  ],
+  "cbq": [
+    {
+      "slug": "cbq",
+      "nid": 4004,
+      "label": "CBQ"
+    }
+  ],
+  "combined-bachelors-quarters": [
+    {
+      "slug": "combined-bachelors-quarters",
+      "nid": 4004,
+      "label": "Combined Bachelors' Quarters"
+    }
+  ],
+  "jtf": [
+    {
+      "slug": "jtf",
+      "nid": 4004,
+      "label": "JTF"
+    }
+  ],
+  "honor-bound-to-defend-freedom": [
+    {
+      "slug": "honor-bound-to-defend-freedom",
+      "nid": 4004,
+      "label": "honor bound to defend freedom"
+    }
+  ],
+  "total-isolation": [
+    {
+      "slug": "total-isolation",
+      "nid": 4004,
+      "label": "total isolation"
+    }
+  ],
+  "unjust-imprisonment": [
+    {
+      "slug": "unjust-imprisonment",
+      "nid": 4004,
+      "label": "unjust imprisonment"
+    }
+  ],
+  "treaty-obligations": [
+    {
+      "slug": "treaty-obligations",
+      "nid": 4004,
+      "label": "treaty obligations"
+    }
+  ],
+  "fair-hearing": [
+    {
+      "slug": "fair-hearing",
+      "nid": 4004,
+      "label": "fair hearing"
+    }
+  ],
+  "seton-hall": [
+    {
+      "slug": "seton-hall",
+      "nid": 4005,
+      "label": "Seton Hall"
+    }
+  ],
+  "suicides": [
+    {
+      "slug": "suicides",
+      "nid": 4005,
+      "label": "suicides"
+    }
+  ],
+  "obtaining-funding-for-representation": [
+    {
+      "slug": "obtaining-funding-for-representation",
+      "nid": 4006,
+      "label": "obtaining funding for representation"
+    }
+  ],
+  "habeas-actions": [
+    {
+      "slug": "habeas-actions",
+      "nid": 4007,
+      "label": "habeas actions"
+    }
+  ],
+  "paul-weiss": [
+    {
+      "slug": "paul-weiss",
+      "nid": 4007,
+      "label": "Paul Weiss"
+    }
+  ],
+  "orgins-of-the-litigation": [
+    {
+      "slug": "orgins-of-the-litigation",
+      "nid": 4008,
+      "label": "orgins of the litigation"
+    }
+  ],
+  "meeting-clients": [
+    {
+      "slug": "meeting-clients",
+      "nid": 4008,
+      "label": "meeting clients"
+    }
+  ],
+  "in-limbo": [
+    {
+      "slug": "in-limbo",
+      "nid": 4010,
+      "label": "in limbo"
+    }
+  ],
+  "approved-for-release": [
+    {
+      "slug": "approved-for-release",
+      "nid": 4010,
+      "label": "approved for release"
+    }
+  ],
+  "undergarments": [
+    {
+      "slug": "undergarments",
+      "nid": 4011,
+      "label": "undergarments"
+    }
+  ],
+  "babrru": [
+    {
+      "slug": "babrru",
+      "nid": 4013,
+      "label": "Babrru"
+    }
+  ],
+  "alternative-forms-of-advocacy": [
+    {
+      "slug": "alternative-forms-of-advocacy",
+      "nid": 4013,
+      "label": "alternative forms of advocacy"
+    }
+  ],
+  "after-gtmo": [
+    {
+      "slug": "after-gtmo",
+      "nid": 4013,
+      "label": "after GTMO"
+    }
+  ],
+  "a-place-beyond-the-law": [
+    {
+      "slug": "a-place-beyond-the-law",
+      "nid": 4013,
+      "label": "a place beyond the law"
+    }
+  ],
+  "geneva-conventions": [
+    {
+      "slug": "geneva-conventions",
+      "nid": 4013,
+      "label": "Geneva Conventions"
+    }
+  ],
+  "dilawar": [
+    {
+      "slug": "dilawar",
+      "nid": 4014,
+      "label": "Dilawar"
+    }
+  ],
+  "indefinite-detetion": [
+    {
+      "slug": "indefinite-detetion",
+      "nid": 4014,
+      "label": "indefinite detetion"
+    }
+  ],
+  "sham-commisions": [
+    {
+      "slug": "sham-commisions",
+      "nid": 4014,
+      "label": "sham commisions"
+    }
+  ],
+  "brief": [
+    {
+      "slug": "brief",
+      "nid": 4016,
+      "label": "Brief"
+    }
+  ],
+  "guantanmo": [
+    {
+      "slug": "guantanmo",
+      "nid": 4016,
+      "label": "Guantanmo"
+    }
+  ],
+  "grant-of-certification": [
+    {
+      "slug": "grant-of-certification",
+      "nid": 4017,
+      "label": "grant of certification"
+    }
+  ],
+  "wilmer-hale": [
+    {
+      "slug": "wilmer-hale",
+      "nid": 4017,
+      "label": "Wilmer Hale"
+    }
+  ],
+  "stephen-abraham": [
+    {
+      "slug": "stephen-abraham",
+      "nid": 4017,
+      "label": "Stephen Abraham,"
+    }
+  ],
+  "canada": [
+    {
+      "slug": "canada",
+      "nid": 4020,
+      "label": "Canada"
+    }
+  ],
+  "illegal-rendition": [
+    {
+      "slug": "illegal-rendition",
+      "nid": 4020,
+      "label": "illegal rendition"
+    }
+  ],
+  "tribunals": [
+    {
+      "slug": "tribunals",
+      "nid": 4021,
+      "label": "tribunals"
+    }
+  ],
+  "habeas-hearings": [
+    {
+      "slug": "habeas-hearings",
+      "nid": 4021,
+      "label": "habeas hearings"
+    }
+  ],
+  "clients-testimony": [
+    {
+      "slug": "clients-testimony",
+      "nid": 4021,
+      "label": "client's testimony"
+    }
+  ],
+  "lebenon": [
+    {
+      "slug": "lebenon",
+      "nid": 4022,
+      "label": "Lebenon"
+    }
+  ],
+  "secret-detention-sites": [
+    {
+      "slug": "secret-detention-sites",
+      "nid": 4022,
+      "label": "secret detention sites"
+    }
+  ],
+  "cia-rendition": [
+    {
+      "slug": "cia-rendition",
+      "nid": 4022,
+      "label": "CIA rendition"
+    }
+  ],
+  "prisoner": [
+    {
+      "slug": "prisoner",
+      "nid": 4023,
+      "label": "prisoner"
+    }
+  ],
+  "american-justice": [
+    {
+      "slug": "american-justice",
+      "nid": 4023,
+      "label": "american justice"
+    }
+  ],
+  "law-student": [
+    {
+      "slug": "law-student",
+      "nid": 4025,
+      "label": "law student"
+    }
+  ],
+  "fordham-law-schools-international-justice-clinic": [
+    {
+      "slug": "fordham-law-schools-international-justice-clinic",
+      "nid": 4025,
+      "label": "Fordham Law School's International Justice Clinic"
+    }
+  ],
+  "habeas-lawyer": [
+    {
+      "slug": "habeas-lawyer",
+      "nid": 4025,
+      "label": "habeas lawyer"
+    }
+  ],
+  "security-clearance": [
+    {
+      "slug": "security-clearance",
+      "nid": 4025,
+      "label": "security clearance"
+    }
+  ],
+  "classified-information": [
+    {
+      "slug": "classified-information",
+      "nid": 4025,
+      "label": "classified information"
+    }
+  ],
+  "illegal-detention": [
+    {
+      "slug": "illegal-detention",
+      "nid": 4026,
+      "label": "illegal detention"
+    }
+  ],
+  "navy-brig": [
+    {
+      "slug": "navy-brig",
+      "nid": 4026,
+      "label": "Navy brig"
+    }
+  ],
+  "defense-intelligence-agency": [
+    {
+      "slug": "defense-intelligence-agency",
+      "nid": 4026,
+      "label": "Defense Intelligence Agency"
+    }
+  ],
+  "dia": [
+    {
+      "slug": "dia",
+      "nid": 4026,
+      "label": "DIA"
+    }
+  ],
+  "improper-detention": [
+    {
+      "slug": "improper-detention",
+      "nid": 4027,
+      "label": "improper detention"
+    }
+  ],
+  "improper-investigations": [
+    {
+      "slug": "improper-investigations",
+      "nid": 4027,
+      "label": "improper investigations"
+    }
+  ],
+  "spurious-information": [
+    {
+      "slug": "spurious-information",
+      "nid": 4027,
+      "label": "spurious information"
+    }
+  ],
+  "afganistan": [
+    {
+      "slug": "afganistan",
+      "nid": 4027,
+      "label": "Afganistan"
+    }
+  ],
+  "military-interference": [
+    {
+      "slug": "military-interference",
+      "nid": 4047,
+      "label": "military interference"
+    }
+  ],
+  "tunisia": [
+    {
+      "slug": "tunisia",
+      "nid": 4047,
+      "label": "Tunisia"
+    }
+  ],
+  "refusing-to-meet-with-lawyers": [
+    {
+      "slug": "refusing-to-meet-with-lawyers",
+      "nid": 4047,
+      "label": "refusing to meet with lawyers"
+    }
+  ]
+}

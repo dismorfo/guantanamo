@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {{> head }}
+</head>
+<body class="front not-logged-in page-node node-type-page two-sidebars no-logo">
+  <div id="skip-to-content">
+    <a href="#content">Skip to content</a>
+  </div>
+  <div id="page" style="width: 85%;">
+    {{> header }}
+    <div id="main" class="clear-block no-header-blocks">
+      {{> content }}
+      {{> sidebarleft }}
+      {{> sidebarright }}
+    </div>
+    {{> footer }}
+  </div>
+  {{{ closure }}}
+</body>
+</html>

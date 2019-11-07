@@ -1,0 +1,78 @@
+<div id="content">
+  <div id="content-inner">
+    <div>
+      <a href="{{appRoot}}">Home</a>
+    </div>
+    <br/>
+    {{#content}}
+      <h1 class="title">{{title}}</h1>
+      <div class="taxonomy">Posted in 
+        <ul class="links inline">
+          {{#each themeTags}}
+            <li><a href="/themes/{{slug this}}" rel="tag">{{this}}</a></li>
+          {{/each}}          
+          {{#each generalTags}}
+            <li><a href="/keywords/{{slug this}}" rel="tag">{{this}}</a></li>
+          {{/each}}          
+        </ul>
+      </div>
+    <br/>
+    <div class="content clearfix">
+      <div class="field field-type-text field-field-author-name">
+        <div><strong>Author</strong>: {{firstName}} {{middleInitial}} {{lastName}}</div>
+      </div>
+      <br/>
+      {{#if bio }}
+      <div class="field field-type-text field-field-author-bio">
+        <div class="field-label">Bio:&nbsp;</div>
+        <div class="field-items">
+          <div class="field-item odd">{{bio}}</div>
+        </div>
+      </div>
+      <br/>   
+      {{/if}}   
+      <div class="field field-type-text field-field-narrative-name">
+        <div class="field-label">Narrative Name:&nbsp;</div>
+        <div class="field-items">
+          <div class="field-item odd">{{narrativeName}}</div>
+        </div>
+      </div>
+      <br/>
+      <div class="field field-type-text field-field-word-file">
+        <div class="field-label">Download document:&nbsp;</div>
+        <ul class="links inline">
+          <li><a href="{{wordFile}}">Word format</a></li>
+          <li><a href="{{pdfa}}">PDF format</a></li>
+        </ul>
+      </div>
+      <br/>
+      {{#if themeTags }}
+      <div class="field field-type-text field-field-theme-tags">
+        <div class="field-label">Theme Tags:&nbsp;</div>
+        <div class="field-items">
+          <ul class="links inline">
+          {{#each themeTags}}
+            <li><a href="/themes/{{slug this}}" rel="tag">{{this}}</a></li>
+          {{/each}}
+          </ul>
+        </div>
+      </div>
+      <br/>
+      {{/if}}
+      {{#if generalTags }}
+      <div class="field field-type-text field-field-general-tags">
+        <div class="field-label">General Tags:&nbsp;</div>
+        <div class="field-items">
+           <ul class="links inline">
+          {{#each generalTags}}
+            <li><a href="/keywords/{{slug this}}" rel="tag">{{this}}</a></li>
+          {{/each}}           
+          </ul>
+        </div>
+      </div>
+      <br/>
+      {{/if}}
+    </div>
+    {{/content}}
+  </div>
+</div>
