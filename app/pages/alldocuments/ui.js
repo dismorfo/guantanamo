@@ -33,6 +33,7 @@ new Vue({
     }
   },
   mounted: function () {
+    this.appUrl = this.$el.getAttribute('data-appurl');
     this.fetchDocuments();
   },
   computed: {
@@ -43,7 +44,7 @@ new Vue({
   methods: {
     fetchDocuments: function () {
       const vm = this;
-      fetch(`/alldocuments/articles.json`)
+      fetch(`${vm.appUrl}/alldocuments/articles.json`)
       .then(response => {
         if (response.ok) {
           return response.json();
