@@ -9,7 +9,7 @@ const {
  */
 module.exports = function (str) {
   if (typeof str === 'string' || str instanceof String) {
-    return `${get('APP_URL')}/${str}`;
+    return `${get('APP_URL')}/${str.replace(/^\//, '')}`;
   } else {
     return `${get('APP_URL')}`;
   }
