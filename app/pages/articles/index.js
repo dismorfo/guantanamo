@@ -19,7 +19,7 @@ class Article extends Page {
     const articles = read.json(`${appDir()}/app/localsource/articles/articles.json`);
     for (const content of articles) {
       this.render({
-        id: content.nid,
+        id: 'article',
         route: `/node/${content.nid}/index.html`,
         content: content,
       });

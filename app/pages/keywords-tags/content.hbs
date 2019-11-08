@@ -1,7 +1,7 @@
 <div id="content">
   <div id="content-inner">
     <div>
-      <a href="{{appRoot}}">Home</a>
+      <a href="{{appUrl}}">Home</a>
     </div>
     <br/>
     <div class="content clearfix">
@@ -9,7 +9,7 @@
       <br/>
       <ul>
         {{#each nodes}}
-          <li><a href="/node/{{this.nid}}" rel="tag">{{this.narrativeName}} by {{this.firstName}} {{this.middleInitial}} {{this.lastName}}</a></li>
+          <li><a href="{{../appUrl}}/node/{{this.nid}}" rel="tag">{{this.narrativeName}} by {{this.firstName}} {{this.middleInitial}} {{this.lastName}}</a></li>
         {{/each}}
       </ul>
     </div>

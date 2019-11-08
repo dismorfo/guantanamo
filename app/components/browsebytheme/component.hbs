@@ -3,11 +3,11 @@
     <h2 class="block-title">{{title}}</h2>
     <div class="block-content">
       <div class="block-content-inner">
-         {{#data}}
+        {{#data}}
           <a href="{{path}}" class="tagadelic level1" rel="tag">{{label}}</a>
         {{/data}}
         <div class='more-link'>
-          <a href="/themes">more tags</a>
+          <a href="{{baseurl 'themes'}}">more tags</a>
         </div>
       </div>
     </div>

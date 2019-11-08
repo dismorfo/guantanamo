@@ -18,7 +18,8 @@ module.exports = exports = {
     'BrowseByTheme',
     'keyword',
     'TheBlog',
-    'TheBook'
+    'TheBook',
+    'AboutDocuments',
   ]),
   author: 'New York University',
   keywords: [

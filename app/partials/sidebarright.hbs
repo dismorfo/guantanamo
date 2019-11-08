@@ -1,4 +1,7 @@
 <div id="sidebar-right" class="region region-right">
   <TheBook></TheBook>
-  <TheBlog></TheBlog>
+  {{#isDocument}}
+    <AboutDocuments></AboutDocuments>
+  {{/isDocument}}
+  <TheBlog></TheBlog> 
 </div>

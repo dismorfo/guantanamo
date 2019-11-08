@@ -3,6 +3,7 @@
     <div>
       <a href="{{appUrl}}">Home</a>
     </div>
+    <br/>
     {{#content}}
       {{#main}}        
         <h1 class="title">{{title}}</h1>
@@ -47,7 +48,7 @@
               :per-page="perPage"
             >
             <template v-slot:cell(title)="data">
-              <a :href="`/node/${data.item.nid}`" v-html="data.item.title"></a>
+              <a :href="`{{../../appUrl}}/node/${data.item.nid}`" v-html="data.item.title"></a>
             </template>
             <template v-slot:cell(pdfa)="data">
               <a :href="data.item.pdfa">Download PDF Article</a>

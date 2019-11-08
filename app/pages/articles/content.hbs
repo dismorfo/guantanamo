@@ -9,11 +9,11 @@
       <div class="taxonomy">Posted in 
         <ul class="links inline">
           {{#each themeTags}}
-            <li><a href="/themes/{{slug this}}" rel="tag">{{this}}</a></li>
-          {{/each}}          
+            <li><a href="{{../../appUrl}}/themes/{{slug this}}" rel="tag">{{this}}</a></li>
+          {{/each}}
           {{#each generalTags}}
-            <li><a href="/keywords/{{slug this}}" rel="tag">{{this}}</a></li>
-          {{/each}}          
+            <li><a href="{{../../appUrl}}/keywords/{{slug this}}" rel="tag">{{this}}</a></li>
+          {{/each}}
         </ul>
       </div>
     <br/>
@@ -52,7 +52,7 @@
         <div class="field-items">
           <ul class="links inline">
           {{#each themeTags}}
-            <li><a href="/themes/{{slug this}}" rel="tag">{{this}}</a></li>
+            <li><a href="{{../../appUrl}}/themes/{{slug this}}" rel="tag">{{this}}</a></li>
           {{/each}}
           </ul>
         </div>
@@ -65,7 +65,7 @@
         <div class="field-items">
            <ul class="links inline">
           {{#each generalTags}}
-            <li><a href="/keywords/{{slug this}}" rel="tag">{{this}}</a></li>
+            <li><a href="{{../../appUrl}}/keywords/{{slug this}}" rel="tag">{{this}}</a></li>
           {{/each}}
           </ul>
         </div>
